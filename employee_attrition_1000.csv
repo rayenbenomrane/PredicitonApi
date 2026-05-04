@@ -1,0 +1,1001 @@
+Employee_ID,Age,Gender,Marital_Status,Department,Job_Role,Job_Level,Monthly_Income,Hourly_Rate,Years_at_Company,Years_in_Current_Role,Years_Since_Last_Promotion,Work_Life_Balance,Job_Satisfaction,Performance_Rating,Training_Hours_Last_Year,Overtime,Project_Count,Average_Hours_Worked_Per_Week,Absenteeism,Work_Environment_Satisfaction,Relationship_with_Manager,Job_Involvement,Distance_From_Home,Number_of_Companies_Worked,Attrition
+1,56,Female,Single,IT,Technician,1,6734,87,10,8,7,1,3,2,1,No,6,36,0,2,2,1,44,0,No
+2,59,Female,Divorced,IT,Analyst,3,2267,68,2,0,2,3,1,1,38,Yes,9,48,17,2,1,2,2,3,Yes
+3,24,Female,Single,IT,Sales Representative,4,2585,8,1,0,1,2,1,3,17,No,2,44,3,2,3,3,8,5,Yes
+4,57,Male,Single,HR,Technician,4,13185,93,12,12,12,3,1,1,24,No,8,35,11,3,3,3,17,7,No
+5,50,Male,Single,HR,Manager,1,4099,11,8,5,1,1,3,3,23,No,8,56,2,1,3,1,47,5,No
+6,22,Female,Divorced,IT,Sales Representative,3,6134,94,9,6,2,3,3,1,31,No,5,57,6,1,3,3,29,3,No
+7,24,Male,Divorced,Finance,Manager,2,10789,61,5,2,3,2,2,3,27,Yes,1,35,19,1,1,3,39,5,No
+8,26,Female,Single,Sales,Engineer,2,13971,28,14,12,5,1,1,2,11,Yes,2,37,16,1,1,1,49,1,Yes
+9,40,Male,Single,Sales,Engineer,2,6249,57,11,10,5,3,3,3,16,No,8,39,19,2,2,2,11,6,Yes
+10,50,Male,Divorced,R&D,Engineer,4,3811,63,3,1,1,3,3,3,19,No,4,67,7,3,2,1,11,3,No
+11,40,Male,Married,HR,Engineer,3,7287,94,15,15,3,1,2,1,11,No,7,43,8,3,3,3,20,7,No
+12,50,Female,Divorced,Sales,Analyst,2,5199,88,2,2,2,1,1,2,17,No,3,50,8,1,1,2,21,7,Yes
+13,25,Male,Divorced,Sales,Sales Representative,4,5555,63,18,14,18,2,3,3,33,Yes,1,62,14,1,1,1,48,2,No
+14,34,Female,Married,R&D,Technician,2,2060,28,16,12,2,1,3,1,20,Yes,1,37,17,1,2,3,3,7,Yes
+15,49,Male,Married,HR,Engineer,2,2409,94,16,16,8,3,2,3,28,Yes,3,59,12,2,3,1,36,4,Yes
+16,25,Female,Married,Finance,Engineer,3,10358,96,1,0,1,3,3,2,24,Yes,6,56,16,2,2,3,43,3,Yes
+17,25,Male,Single,Finance,Technician,4,8027,98,14,12,6,1,2,2,29,Yes,8,53,4,2,1,2,23,6,No
+18,18,Female,Married,Sales,Manager,4,8805,52,7,3,4,1,1,3,4,No,7,37,11,2,3,1,22,0,Yes
+19,45,Male,Divorced,Sales,Analyst,1,14515,20,15,11,6,1,2,2,36,Yes,6,39,3,2,3,2,19,1,No
+20,22,Male,Divorced,HR,Sales Representative,4,10087,36,19,16,17,3,1,1,36,No,1,67,7,2,3,1,13,3,Yes
+21,19,Male,Divorced,HR,Engineer,3,12088,94,7,3,1,2,2,2,33,Yes,7,38,17,1,3,1,36,0,No
+22,53,Female,Single,Sales,Engineer,1,2122,40,17,17,6,3,2,1,11,No,7,59,2,1,2,1,49,5,No
+23,42,Female,Single,IT,Engineer,1,14923,16,8,6,8,3,2,3,18,No,5,39,2,1,3,1,36,4,No
+24,56,Male,Single,HR,Manager,3,7541,99,4,2,4,3,3,2,11,No,1,41,13,1,2,1,27,1,No
+25,46,Male,Married,IT,Technician,1,2365,21,6,6,4,2,3,3,38,No,3,37,12,1,2,2,20,3,No
+26,58,Male,Single,IT,Technician,4,13477,67,16,16,0,2,1,2,31,No,5,50,10,1,3,3,20,0,No
+27,58,Male,Married,Sales,Technician,2,9053,7,15,15,10,2,2,1,7,Yes,4,60,7,2,2,1,41,3,No
+28,34,Male,Single,R&D,Analyst,1,3779,33,12,10,12,2,2,3,4,No,2,44,17,3,1,1,33,5,No
+29,49,Male,Single,IT,Technician,2,5158,93,16,12,0,2,1,3,0,Yes,7,40,16,1,3,1,38,2,No
+30,54,Male,Single,HR,Manager,3,14456,89,13,13,13,1,3,1,12,Yes,1,66,1,3,3,2,34,5,No
+31,29,Male,Married,Finance,Technician,2,8901,61,16,12,13,2,3,3,38,Yes,2,68,17,2,3,3,34,3,No
+32,50,Female,Divorced,Finance,Manager,3,11320,9,3,2,3,1,2,1,19,No,2,40,1,1,2,3,43,7,No
+33,40,Male,Divorced,IT,Analyst,4,12139,60,2,0,2,1,2,1,18,No,2,62,9,1,2,1,6,0,No
+34,29,Female,Married,HR,Sales Representative,2,10945,49,8,7,8,3,1,2,29,Yes,1,60,3,1,1,3,15,6,Yes
+35,39,Female,Married,Finance,Manager,1,7809,18,18,16,14,3,2,3,17,No,3,49,4,2,3,1,17,6,No
+36,42,Male,Single,Finance,Sales Representative,4,8561,71,8,4,1,3,3,2,33,No,8,53,9,1,1,2,26,7,No
+37,23,Male,Single,Sales,Technician,2,11516,74,5,2,5,3,2,2,29,Yes,7,43,2,3,3,1,36,7,Yes
+38,19,Female,Divorced,Finance,Sales Representative,2,3551,55,1,0,1,2,3,1,4,Yes,6,38,18,1,1,3,1,1,No
+39,55,Male,Married,IT,Analyst,1,3026,7,0,0,0,2,1,3,9,No,8,36,19,1,3,1,9,0,Yes
+40,32,Female,Married,IT,Sales Representative,1,13219,54,13,9,7,3,1,2,11,Yes,1,56,7,3,1,1,14,3,Yes
+41,38,Male,Single,IT,Engineer,2,8577,66,3,3,0,2,1,2,39,No,8,48,18,1,2,1,23,6,No
+42,42,Male,Single,HR,Technician,4,11343,55,6,4,5,2,3,3,7,No,4,49,14,1,1,2,39,2,No
+43,55,Male,Single,R&D,Technician,3,1950,37,3,2,1,1,3,2,32,Yes,4,58,19,3,1,1,29,6,Yes
+44,19,Male,Divorced,IT,Engineer,4,1793,47,4,1,2,2,2,2,5,No,8,52,0,3,3,1,37,7,No
+45,45,Male,Married,Sales,Engineer,1,12725,44,8,6,6,1,2,1,20,Yes,4,57,0,3,2,3,40,6,No
+46,26,Male,Single,HR,Analyst,1,5212,30,8,6,3,1,2,3,37,Yes,2,61,1,3,1,3,44,2,Yes
+47,41,Male,Divorced,Finance,Technician,4,14472,53,10,9,1,1,1,3,16,No,1,54,7,1,3,1,32,4,Yes
+48,36,Female,Married,R&D,Sales Representative,1,10692,34,15,13,1,1,2,3,1,No,1,64,5,3,3,1,8,4,Yes
+49,20,Female,Married,HR,Engineer,2,7305,91,17,13,7,1,1,3,2,Yes,8,37,18,1,3,2,35,7,No
+50,49,Female,Married,IT,Analyst,4,9356,58,13,12,6,2,3,1,22,No,3,63,17,2,1,3,5,3,Yes
+51,19,Male,Divorced,Finance,Analyst,1,1804,42,8,7,4,3,2,2,23,Yes,8,57,16,2,3,1,14,0,No
+52,42,Male,Single,IT,Analyst,2,9633,33,12,11,6,1,3,2,17,No,4,68,16,1,1,2,12,6,Yes
+53,39,Male,Divorced,Sales,Engineer,4,9801,16,12,12,4,3,2,1,16,No,2,35,18,1,3,2,29,4,No
+54,28,Female,Single,IT,Engineer,2,13385,59,14,10,7,1,2,3,19,Yes,4,51,12,3,2,1,26,1,Yes
+55,26,Female,Single,Sales,Sales Representative,1,10130,46,6,4,2,2,1,3,29,Yes,3,51,9,1,3,1,47,3,No
+56,41,Male,Divorced,R&D,Sales Representative,3,6604,84,5,5,1,1,3,3,25,Yes,7,51,6,2,3,1,7,0,Yes
+57,25,Female,Divorced,R&D,Manager,3,6085,43,2,1,2,2,3,1,13,No,3,68,2,1,3,2,23,3,No
+58,21,Male,Married,Sales,Technician,2,13303,46,11,10,6,3,2,2,29,Yes,2,66,2,3,3,2,29,5,Yes
+59,33,Female,Divorced,Sales,Manager,2,1920,88,4,4,0,3,1,2,29,No,2,59,15,1,1,2,15,0,Yes
+60,41,Female,Divorced,HR,Technician,1,13260,47,5,3,5,1,2,1,6,No,8,54,18,1,2,2,43,1,No
+61,58,Male,Married,IT,Technician,1,9245,51,16,16,2,2,1,1,34,No,1,58,2,3,2,1,47,0,No
+62,31,Male,Married,IT,Sales Representative,4,8490,96,8,6,8,2,2,1,14,No,5,45,1,3,2,3,5,7,No
+63,23,Male,Single,Finance,Technician,1,13880,44,12,8,2,2,3,2,39,No,1,40,18,1,3,3,48,0,No
+64,42,Male,Married,Finance,Engineer,2,5795,11,4,2,4,2,1,3,30,No,5,64,6,3,2,2,14,4,No
+65,56,Female,Single,IT,Sales Representative,1,3064,99,1,0,1,1,3,2,18,No,9,66,1,3,3,2,37,4,No
+66,37,Female,Married,Finance,Engineer,4,2040,16,16,15,0,2,2,3,17,No,4,69,19,1,3,1,11,0,Yes
+67,32,Female,Divorced,IT,Manager,3,12801,50,1,0,1,1,3,1,38,No,4,66,1,3,2,2,11,2,No
+68,45,Male,Single,R&D,Engineer,4,2682,61,4,2,2,1,2,2,14,No,3,59,11,2,3,3,8,3,Yes
+69,34,Male,Single,IT,Manager,4,7342,7,11,7,7,2,3,2,14,No,7,51,11,1,2,1,22,5,No
+70,19,Female,Divorced,R&D,Sales Representative,4,13052,22,17,15,12,1,1,2,7,No,3,58,8,1,1,2,32,6,Yes
+71,39,Female,Single,HR,Manager,4,9032,6,0,0,0,1,1,2,32,No,6,36,5,3,2,2,15,1,Yes
+72,57,Male,Single,IT,Engineer,2,3056,10,8,8,1,2,2,2,6,No,4,40,2,3,1,2,14,2,No
+73,29,Male,Single,Sales,Technician,3,11361,23,13,10,12,1,3,1,31,No,2,40,17,3,2,1,32,7,No
+74,20,Female,Married,IT,Engineer,1,7236,58,14,14,6,1,2,1,30,No,8,54,4,2,2,1,32,0,No
+75,51,Female,Married,HR,Analyst,2,13582,46,18,16,11,3,1,2,39,No,1,69,7,2,3,2,44,5,No
+76,54,Male,Married,R&D,Sales Representative,2,2525,64,14,14,3,2,3,2,16,Yes,9,62,1,3,1,1,1,7,Yes
+77,53,Male,Divorced,IT,Manager,3,1629,18,15,14,12,2,2,1,0,No,8,46,0,1,2,1,43,4,No
+78,29,Male,Single,Sales,Analyst,4,3203,83,5,2,2,1,2,2,1,Yes,5,54,0,3,3,2,37,4,Yes
+79,50,Male,Divorced,Finance,Manager,4,3740,92,10,9,8,2,1,1,38,No,2,57,11,2,3,2,45,3,No
+80,59,Female,Divorced,HR,Technician,1,10206,12,5,1,5,3,2,1,25,Yes,2,52,16,2,3,1,12,2,No
+81,21,Male,Single,IT,Technician,4,14380,94,1,0,1,2,3,1,32,No,9,47,8,3,2,1,38,5,No
+82,36,Female,Married,HR,Technician,1,10042,79,0,0,0,1,3,1,11,No,5,53,0,1,1,3,44,5,Yes
+83,52,Female,Married,HR,Manager,2,13040,7,7,6,5,1,1,2,24,Yes,2,49,11,3,3,3,6,5,Yes
+84,38,Male,Divorced,R&D,Analyst,3,7936,40,10,8,3,1,1,2,18,Yes,4,61,14,3,2,2,18,1,Yes
+85,21,Female,Single,IT,Analyst,2,14350,17,6,6,1,1,2,2,6,No,8,47,8,2,1,3,10,7,Yes
+86,59,Female,Single,HR,Engineer,1,6699,54,18,15,6,2,1,2,18,No,1,39,14,1,3,2,33,6,No
+87,39,Female,Single,IT,Analyst,3,8327,15,9,9,8,2,1,2,34,No,2,37,9,2,1,3,41,0,Yes
+88,41,Female,Married,IT,Analyst,2,2125,46,6,2,5,1,1,3,8,Yes,6,38,12,1,2,1,44,2,Yes
+89,25,Female,Married,IT,Analyst,1,13345,7,5,4,3,2,2,1,34,No,4,42,11,2,1,1,29,6,No
+90,33,Female,Married,Sales,Analyst,1,14711,16,7,4,2,2,1,3,27,No,6,39,19,1,1,2,21,3,Yes
+91,35,Female,Divorced,Sales,Technician,4,11699,42,19,18,13,1,3,2,1,Yes,2,61,8,1,3,3,23,1,No
+92,23,Male,Married,IT,Analyst,1,9435,16,14,14,9,2,2,1,34,No,6,37,15,3,2,1,15,4,Yes
+93,44,Female,Divorced,HR,Analyst,2,13553,29,1,1,0,2,1,3,13,Yes,6,37,2,1,2,1,13,4,Yes
+94,38,Female,Single,Finance,Technician,4,8179,36,12,9,1,1,3,2,31,Yes,2,57,18,3,3,1,19,1,Yes
+95,19,Female,Divorced,HR,Technician,3,6175,83,8,6,8,3,1,1,27,Yes,3,41,15,1,3,1,37,6,Yes
+96,46,Female,Married,HR,Technician,4,8870,66,2,0,1,2,3,1,21,No,7,36,5,3,1,2,23,1,Yes
+97,22,Male,Single,R&D,Manager,2,8380,57,17,13,12,1,3,1,10,No,4,60,3,2,2,3,41,4,No
+98,55,Female,Single,HR,Technician,1,5200,68,16,16,8,1,2,1,32,No,8,55,10,3,2,3,22,7,Yes
+99,34,Female,Divorced,R&D,Engineer,1,14727,48,0,0,0,1,1,3,0,Yes,8,69,16,1,1,2,31,5,No
+100,32,Male,Divorced,IT,Analyst,3,12754,62,4,0,1,2,3,1,30,No,8,59,8,2,3,2,3,0,No
+101,21,Female,Single,Sales,Sales Representative,2,13406,66,17,16,3,3,2,2,12,No,2,45,9,3,1,2,9,0,No
+102,31,Female,Married,Sales,Manager,2,13275,34,19,15,11,3,2,1,20,Yes,7,46,8,3,2,1,13,5,No
+103,25,Female,Married,Finance,Engineer,4,9789,26,10,10,5,1,1,2,1,Yes,4,61,17,3,3,3,23,7,Yes
+104,39,Male,Single,R&D,Sales Representative,4,9706,67,18,14,6,3,1,1,7,No,8,35,11,1,3,1,4,7,Yes
+105,59,Female,Divorced,Sales,Manager,1,4967,50,6,4,2,2,1,1,8,No,6,60,11,1,2,2,34,4,Yes
+106,28,Female,Divorced,IT,Technician,2,3179,8,19,18,2,2,1,2,20,Yes,7,55,9,2,2,1,45,3,No
+107,24,Female,Single,IT,Technician,4,7841,59,19,16,1,2,2,3,30,Yes,3,53,12,2,2,2,31,3,No
+108,53,Female,Divorced,Sales,Sales Representative,2,1830,96,14,12,8,2,1,1,16,No,4,61,14,2,3,2,11,6,Yes
+109,33,Male,Single,Finance,Technician,2,3097,7,12,10,0,2,2,2,5,No,3,53,9,3,2,2,5,4,No
+110,37,Male,Single,HR,Technician,4,10817,8,6,5,2,1,1,2,30,No,9,55,11,2,2,2,28,6,Yes
+111,45,Female,Married,HR,Sales Representative,1,1581,48,8,4,3,3,2,2,20,No,1,61,6,2,3,3,18,7,No
+112,37,Female,Divorced,R&D,Manager,2,3539,18,4,3,4,2,1,3,22,Yes,8,53,18,1,1,1,41,0,Yes
+113,21,Male,Married,Sales,Sales Representative,1,10879,65,1,0,1,3,1,3,21,No,2,40,13,2,2,1,10,4,Yes
+114,39,Female,Single,HR,Manager,2,12407,55,6,3,6,2,3,2,34,Yes,1,66,6,1,2,3,4,5,No
+115,32,Female,Single,Finance,Analyst,2,8548,44,16,15,2,1,2,3,5,Yes,7,59,17,3,3,1,11,7,Yes
+116,25,Female,Single,Finance,Technician,1,8239,59,8,7,3,2,2,3,15,No,3,61,17,3,2,1,28,0,Yes
+117,25,Male,Divorced,R&D,Analyst,2,12205,23,8,5,6,1,3,1,20,No,2,38,5,2,3,3,27,4,No
+118,50,Female,Single,Finance,Manager,2,12261,9,2,0,0,1,2,2,5,No,9,45,1,3,1,1,24,1,No
+119,29,Female,Married,HR,Technician,4,4831,94,0,0,0,3,2,1,17,No,9,57,15,2,1,1,44,2,No
+120,44,Male,Single,Finance,Technician,4,7049,70,2,0,2,3,2,1,19,Yes,8,57,2,2,1,3,38,6,Yes
+121,52,Male,Single,R&D,Analyst,2,7115,80,16,16,2,1,3,2,32,No,7,61,1,2,2,2,36,4,No
+122,52,Male,Married,IT,Analyst,1,9472,44,13,12,5,3,2,1,18,No,3,53,8,1,3,2,9,2,No
+123,36,Male,Married,R&D,Technician,4,11704,34,8,8,7,1,2,3,34,Yes,9,38,3,2,1,1,46,5,No
+124,33,Male,Married,Sales,Analyst,3,1778,68,13,12,4,3,1,1,19,Yes,1,43,8,3,1,2,24,7,Yes
+125,40,Male,Married,Finance,Sales Representative,3,11265,56,7,3,2,2,1,1,3,No,4,56,11,1,3,2,44,1,Yes
+126,44,Male,Single,Sales,Sales Representative,2,11128,65,11,10,10,3,2,1,28,No,3,48,2,1,1,1,38,0,Yes
+127,25,Male,Single,HR,Technician,1,2968,68,9,7,5,2,1,1,23,Yes,9,51,18,3,3,3,41,6,Yes
+128,28,Female,Divorced,IT,Technician,3,4629,49,0,0,0,3,1,1,11,No,1,60,6,2,1,1,27,5,Yes
+129,40,Male,Divorced,Finance,Manager,2,5033,72,0,0,0,2,1,3,27,No,1,67,11,2,3,3,41,6,Yes
+130,46,Male,Married,HR,Engineer,3,11188,14,13,12,2,2,1,1,38,No,4,40,1,1,2,3,16,5,Yes
+131,34,Male,Married,Finance,Engineer,3,2856,59,12,11,4,1,2,1,30,No,8,62,10,2,3,1,9,4,No
+132,47,Female,Married,IT,Engineer,4,4243,83,8,6,8,2,1,3,33,Yes,5,41,3,1,1,1,47,3,Yes
+133,27,Female,Married,Finance,Engineer,3,12246,99,10,10,0,2,1,2,11,No,4,39,2,3,1,2,27,5,Yes
+134,44,Female,Divorced,HR,Engineer,1,1910,34,9,5,9,1,1,2,36,No,6,38,17,1,1,1,13,2,No
+135,34,Male,Married,Finance,Technician,1,3352,17,1,0,1,1,3,3,2,Yes,3,55,13,3,1,3,39,3,Yes
+136,45,Male,Single,IT,Technician,3,11378,55,16,14,7,2,1,2,18,Yes,5,42,4,1,1,2,19,6,No
+137,51,Male,Married,R&D,Analyst,2,12924,15,6,3,4,1,1,2,11,No,3,53,15,2,3,3,36,5,Yes
+138,41,Male,Divorced,IT,Engineer,4,3808,85,18,14,13,3,2,3,3,No,3,43,7,1,1,1,49,0,No
+139,36,Male,Married,IT,Engineer,1,14324,51,13,9,6,2,2,1,21,No,6,44,9,2,1,2,41,7,No
+140,47,Male,Married,IT,Engineer,2,11503,30,16,14,0,1,1,1,14,Yes,8,42,4,1,3,1,36,2,Yes
+141,57,Male,Single,HR,Analyst,2,3014,79,2,0,1,1,1,2,18,No,2,51,1,2,2,2,2,1,Yes
+142,48,Female,Married,IT,Engineer,2,3780,57,6,6,0,1,2,1,12,No,5,53,16,3,3,2,10,1,No
+143,37,Female,Married,HR,Analyst,2,10203,57,14,11,12,3,3,2,11,No,2,52,1,3,3,1,12,0,No
+144,48,Male,Married,R&D,Manager,2,4167,90,5,5,1,1,2,1,28,No,9,35,10,3,1,3,34,3,No
+145,35,Male,Divorced,R&D,Engineer,1,9389,60,11,9,4,1,2,3,25,No,9,44,14,3,1,1,43,4,Yes
+146,41,Female,Divorced,Sales,Analyst,3,5888,98,8,4,3,3,3,1,16,Yes,7,62,8,3,3,2,14,2,No
+147,24,Male,Single,HR,Technician,1,14411,35,1,1,0,2,3,2,21,Yes,7,68,8,3,2,3,28,5,No
+148,38,Female,Married,Sales,Analyst,1,12515,17,16,15,11,3,1,2,12,Yes,8,36,16,2,2,3,25,2,Yes
+149,34,Female,Married,Finance,Technician,3,9931,64,5,5,3,3,3,1,39,Yes,6,64,8,2,1,2,7,7,Yes
+150,42,Male,Divorced,HR,Analyst,1,4709,16,15,13,4,1,3,3,8,No,8,67,7,1,2,3,4,7,Yes
+151,58,Male,Married,HR,Analyst,1,2102,91,11,10,3,2,1,3,4,No,4,45,14,2,1,1,26,3,Yes
+152,43,Male,Married,IT,Technician,3,7410,81,7,4,6,3,3,3,0,Yes,4,58,14,3,1,2,26,0,No
+153,37,Female,Single,IT,Sales Representative,2,11661,31,1,0,1,1,2,1,5,Yes,6,52,13,2,2,1,31,5,Yes
+154,23,Male,Single,IT,Analyst,1,8888,79,12,11,10,3,2,1,15,No,8,60,11,3,1,1,18,2,Yes
+155,55,Female,Married,HR,Analyst,4,1882,33,1,1,0,3,1,2,33,No,8,64,3,3,2,1,43,6,No
+156,37,Female,Married,R&D,Analyst,1,3468,78,3,0,3,2,3,3,20,Yes,8,36,7,3,2,1,27,0,No
+157,30,Male,Married,Finance,Sales Representative,2,8927,31,1,0,0,1,1,3,2,Yes,5,64,2,3,1,3,27,1,Yes
+158,35,Male,Single,Finance,Technician,3,2105,72,0,0,0,1,2,2,19,Yes,9,39,0,1,2,2,45,0,No
+159,22,Female,Divorced,IT,Technician,3,11827,30,18,16,12,3,3,3,6,No,5,55,13,3,2,3,45,4,No
+160,36,Female,Divorced,Finance,Sales Representative,3,1270,41,0,0,0,3,3,3,35,No,8,58,9,3,2,1,49,6,Yes
+161,40,Male,Single,R&D,Sales Representative,1,4832,64,5,1,0,2,3,3,37,Yes,4,37,18,2,3,2,36,6,No
+162,30,Male,Married,HR,Technician,1,10327,31,18,18,15,3,3,2,35,No,8,56,7,1,3,3,31,1,No
+163,51,Male,Married,Sales,Sales Representative,3,4551,14,16,13,15,3,1,3,20,No,1,35,18,1,1,3,24,1,No
+164,49,Male,Divorced,Sales,Manager,3,1508,61,16,15,8,1,1,1,5,Yes,4,37,16,3,1,3,45,6,Yes
+165,34,Male,Married,Finance,Analyst,2,9560,87,10,7,2,2,2,1,13,No,7,38,18,2,1,1,49,7,Yes
+166,18,Male,Divorced,R&D,Engineer,3,3763,84,10,9,8,3,3,2,21,No,5,42,6,2,3,3,16,6,No
+167,35,Female,Single,Sales,Analyst,2,11570,9,11,11,5,1,1,1,27,No,6,67,17,1,3,2,5,2,Yes
+168,56,Female,Single,R&D,Analyst,2,3438,83,13,11,5,1,1,2,9,No,8,60,9,1,2,2,5,3,Yes
+169,22,Female,Married,Finance,Sales Representative,1,4802,53,11,9,2,2,2,1,34,Yes,8,44,5,2,2,3,39,2,Yes
+170,55,Female,Divorced,Sales,Analyst,4,13690,88,2,1,1,1,2,2,2,Yes,9,67,15,2,1,3,36,2,Yes
+171,46,Female,Single,IT,Manager,1,7409,57,14,12,5,3,1,3,21,No,9,62,0,1,1,3,49,0,Yes
+172,18,Female,Single,R&D,Manager,4,8967,10,15,15,9,2,3,2,34,No,5,59,14,3,1,3,9,2,Yes
+173,45,Male,Divorced,Sales,Sales Representative,2,5017,88,12,12,4,3,3,3,32,Yes,5,68,7,3,1,2,3,5,No
+174,28,Female,Married,HR,Manager,2,11878,23,3,1,2,1,2,3,9,No,7,61,13,3,2,2,17,0,Yes
+175,42,Male,Single,Finance,Analyst,1,10909,41,8,7,7,3,1,2,37,No,4,49,17,2,3,2,11,1,Yes
+176,21,Female,Divorced,R&D,Engineer,2,11327,72,14,14,6,3,2,2,0,No,5,63,4,1,2,1,7,2,No
+177,37,Male,Divorced,Finance,Technician,1,1195,16,9,9,4,1,3,2,23,No,7,66,4,2,2,1,42,1,No
+178,50,Male,Single,R&D,Sales Representative,2,11348,39,6,6,5,1,2,3,16,Yes,3,64,8,1,3,1,23,4,No
+179,40,Male,Single,R&D,Manager,1,9837,22,0,0,0,2,3,2,13,Yes,3,68,8,2,3,2,39,6,Yes
+180,36,Female,Divorced,Finance,Engineer,1,9328,51,0,0,0,3,3,2,39,No,1,63,17,2,3,1,1,1,Yes
+181,30,Female,Single,R&D,Technician,1,5390,92,16,12,4,2,1,3,6,No,7,35,16,2,1,3,25,2,Yes
+182,32,Male,Single,IT,Manager,4,10359,29,8,8,8,2,1,3,6,No,3,53,1,1,1,3,3,2,Yes
+183,47,Male,Married,IT,Manager,4,4719,26,5,2,0,3,1,1,17,Yes,6,49,19,1,3,2,29,2,Yes
+184,31,Female,Divorced,Finance,Engineer,4,7003,79,10,8,10,2,2,1,8,Yes,2,49,15,1,1,2,37,7,No
+185,56,Female,Married,Finance,Sales Representative,3,6330,68,11,7,10,3,1,3,27,Yes,1,50,2,1,2,2,37,4,No
+186,59,Female,Married,R&D,Technician,3,1053,20,7,5,0,1,3,2,29,No,1,60,1,2,3,2,23,1,No
+187,55,Male,Divorced,IT,Engineer,2,7204,5,12,9,4,2,2,1,26,No,6,44,6,1,3,3,4,7,No
+188,23,Female,Married,R&D,Analyst,4,1160,32,7,7,4,3,2,2,20,No,5,40,13,3,3,1,7,7,No
+189,35,Female,Divorced,Sales,Technician,4,6669,52,19,16,10,1,3,3,31,No,3,61,2,3,3,1,13,0,No
+190,28,Male,Single,IT,Engineer,2,13795,52,2,1,0,3,3,3,34,No,5,55,9,3,1,1,29,6,No
+191,19,Female,Single,IT,Sales Representative,4,3258,91,10,9,6,1,3,3,4,No,2,38,16,2,2,1,14,2,No
+192,35,Male,Divorced,HR,Engineer,1,10131,9,8,6,8,1,2,2,21,Yes,7,38,0,3,2,2,47,0,No
+193,31,Female,Married,Sales,Engineer,3,1206,16,7,4,5,2,3,2,29,No,2,36,3,2,2,3,8,3,No
+194,39,Female,Single,HR,Sales Representative,4,3387,59,15,13,6,1,3,3,26,No,8,43,2,3,1,2,17,6,No
+195,25,Male,Divorced,R&D,Analyst,4,14620,16,16,16,9,2,1,3,10,No,7,68,19,2,2,2,32,3,No
+196,37,Male,Single,Sales,Analyst,4,2942,15,13,9,13,2,3,1,35,No,4,60,3,3,2,2,24,6,No
+197,39,Female,Divorced,IT,Analyst,2,11335,66,4,3,2,2,3,1,0,No,9,68,8,2,1,1,48,1,No
+198,57,Male,Divorced,HR,Technician,1,4103,13,7,4,1,3,1,2,12,No,6,53,6,1,3,2,16,6,No
+199,42,Female,Married,R&D,Technician,1,3032,10,18,14,13,3,2,3,7,Yes,6,62,2,3,1,2,34,7,Yes
+200,55,Female,Divorced,Sales,Engineer,2,5482,63,11,11,10,3,1,3,4,Yes,9,65,19,3,3,2,4,4,No
+201,59,Female,Single,Finance,Analyst,1,1336,58,3,3,0,3,1,1,23,No,2,61,12,3,2,3,26,6,No
+202,56,Male,Single,Finance,Sales Representative,1,4343,6,17,17,6,1,2,1,29,No,5,64,15,3,1,3,15,0,Yes
+203,48,Male,Divorced,Finance,Sales Representative,1,3696,58,14,14,11,3,3,2,15,Yes,1,48,7,3,2,1,43,7,No
+204,28,Male,Divorced,Sales,Sales Representative,4,11745,97,7,6,5,1,1,3,7,No,3,45,16,1,3,2,40,2,No
+205,34,Female,Divorced,Finance,Manager,2,12382,41,18,15,3,2,2,1,35,No,4,66,16,1,3,2,19,1,No
+206,57,Female,Divorced,Finance,Sales Representative,2,13497,52,7,7,6,2,2,3,8,Yes,8,46,13,1,1,3,34,2,Yes
+207,59,Male,Married,Finance,Manager,3,9002,28,4,2,1,3,1,3,34,Yes,5,60,14,2,3,3,20,3,No
+208,40,Female,Divorced,Sales,Sales Representative,2,5765,7,19,19,19,2,1,2,32,Yes,4,49,13,1,1,1,5,5,No
+209,40,Female,Divorced,HR,Technician,4,14026,90,7,5,7,2,2,1,7,No,5,63,4,1,3,2,1,7,No
+210,47,Male,Divorced,HR,Technician,3,7078,68,8,7,4,3,2,3,30,Yes,1,56,7,1,3,1,1,0,No
+211,59,Male,Divorced,Sales,Engineer,1,14519,12,14,14,0,2,2,1,16,No,6,69,13,2,3,1,15,5,No
+212,30,Male,Divorced,R&D,Engineer,4,13293,73,16,16,1,2,3,1,25,No,6,52,3,1,1,2,14,4,Yes
+213,32,Male,Divorced,IT,Analyst,3,8504,39,18,15,3,3,2,1,16,No,2,35,2,1,2,2,14,4,No
+214,21,Female,Divorced,Finance,Analyst,1,10499,70,2,0,2,1,3,1,1,No,8,50,2,2,2,2,18,1,No
+215,46,Male,Married,IT,Technician,3,9644,98,5,4,4,2,1,3,5,Yes,2,49,7,2,1,1,10,3,Yes
+216,20,Female,Divorced,IT,Sales Representative,4,14699,67,3,3,0,3,1,2,5,No,1,54,15,3,3,1,42,2,No
+217,29,Male,Married,Sales,Manager,1,10032,27,9,7,4,3,3,2,24,Yes,8,59,9,2,2,1,46,1,No
+218,58,Male,Married,IT,Analyst,4,8905,14,2,0,2,1,1,2,6,Yes,2,46,9,2,2,3,11,7,Yes
+219,35,Male,Single,IT,Manager,4,14240,51,14,13,11,1,3,2,1,Yes,8,41,14,3,2,3,40,3,Yes
+220,34,Male,Single,Sales,Analyst,1,9711,73,15,12,11,2,1,3,11,Yes,7,50,13,2,3,1,37,4,Yes
+221,53,Male,Married,Finance,Engineer,1,5713,25,4,2,3,1,1,2,35,No,2,39,3,2,1,3,23,1,Yes
+222,46,Female,Married,Finance,Analyst,3,1931,77,6,4,2,2,2,3,14,No,9,66,3,2,2,1,20,6,No
+223,54,Female,Married,Finance,Technician,4,6929,13,9,6,2,2,2,3,34,No,3,65,1,3,2,2,2,3,No
+224,49,Female,Married,R&D,Engineer,4,3176,15,3,2,2,2,3,1,32,No,1,62,9,3,2,2,24,3,No
+225,43,Male,Married,IT,Engineer,1,8362,16,2,1,2,1,2,2,15,Yes,6,64,19,2,1,1,10,3,No
+226,50,Male,Single,HR,Technician,2,2260,26,19,18,10,3,1,2,31,No,2,46,7,1,2,1,10,7,No
+227,37,Male,Married,Sales,Engineer,4,12671,31,1,1,1,2,1,3,11,No,4,58,9,2,2,1,18,7,Yes
+228,29,Female,Married,Finance,Technician,4,8189,82,15,11,3,1,1,1,35,No,6,37,12,3,3,1,4,4,No
+229,31,Male,Divorced,Finance,Sales Representative,1,8766,18,6,3,0,1,2,3,33,Yes,4,57,7,3,2,3,43,0,Yes
+230,52,Male,Divorced,R&D,Engineer,4,11530,9,8,4,5,3,1,3,21,No,5,61,7,3,1,3,32,2,No
+231,41,Male,Single,HR,Engineer,4,2581,71,0,0,0,1,3,1,16,No,4,40,7,1,3,1,3,3,Yes
+232,44,Female,Single,Finance,Sales Representative,3,1242,23,5,3,4,3,1,1,21,Yes,5,56,10,3,2,2,48,2,Yes
+233,30,Female,Single,Finance,Engineer,4,14862,55,11,9,9,2,3,3,37,No,3,40,13,2,1,2,28,0,No
+234,25,Male,Married,IT,Technician,4,11136,16,5,2,2,3,1,1,23,No,9,38,10,1,3,2,11,3,No
+235,40,Male,Divorced,HR,Analyst,3,9504,30,18,18,3,2,2,3,29,No,3,50,13,2,1,1,15,5,No
+236,55,Female,Divorced,R&D,Analyst,2,13709,68,9,9,1,1,1,2,9,Yes,2,61,19,1,1,1,34,3,Yes
+237,43,Female,Single,HR,Sales Representative,1,5386,12,18,15,17,3,3,3,31,No,2,62,15,3,3,3,31,3,No
+238,56,Female,Married,HR,Sales Representative,4,8837,26,10,9,3,2,2,1,6,No,7,60,12,2,2,2,19,4,No
+239,54,Female,Single,HR,Sales Representative,2,8396,16,6,6,5,1,3,1,32,No,5,49,1,3,1,2,18,2,Yes
+240,35,Female,Married,R&D,Manager,1,5675,86,3,3,1,1,2,2,5,No,7,55,15,3,2,3,28,7,Yes
+241,26,Female,Single,R&D,Technician,2,4124,63,9,7,6,2,3,3,28,Yes,3,53,9,1,3,3,6,3,No
+242,30,Male,Divorced,IT,Manager,4,5270,8,18,14,2,1,3,1,2,No,5,41,14,3,2,2,41,5,No
+243,54,Female,Single,HR,Engineer,4,10837,76,16,16,11,1,1,2,13,Yes,9,57,10,2,3,1,43,0,Yes
+244,30,Male,Married,Finance,Manager,3,12707,67,18,16,14,1,1,2,33,Yes,8,40,15,3,2,1,13,4,Yes
+245,35,Male,Married,HR,Manager,3,12052,51,11,7,1,3,1,3,10,No,7,60,13,2,2,1,44,7,No
+246,39,Male,Married,IT,Manager,4,5534,96,0,0,0,3,1,2,36,No,2,69,7,2,1,2,23,3,No
+247,33,Female,Divorced,Finance,Technician,2,3887,59,7,3,0,1,1,2,22,Yes,7,57,12,3,2,3,15,0,Yes
+248,56,Male,Divorced,R&D,Analyst,2,4159,51,7,5,1,3,2,3,5,Yes,5,65,7,1,1,1,23,3,Yes
+249,45,Male,Single,HR,Sales Representative,2,10713,45,5,3,0,1,2,2,10,No,8,37,2,1,3,2,49,3,No
+250,52,Female,Single,Finance,Sales Representative,1,13208,93,15,14,12,3,3,3,24,No,3,43,0,2,3,1,34,7,No
+251,35,Female,Single,R&D,Technician,2,3068,74,8,6,6,3,2,2,29,No,2,58,19,1,1,3,15,3,No
+252,26,Male,Single,HR,Analyst,1,1271,19,2,2,0,3,1,3,17,No,4,44,8,3,3,2,9,5,Yes
+253,52,Male,Single,HR,Technician,4,5471,17,11,7,9,1,3,2,22,No,7,55,13,2,3,1,31,0,Yes
+254,37,Female,Divorced,Sales,Technician,2,4084,96,9,7,9,3,2,3,19,No,3,56,18,2,3,2,16,7,No
+255,21,Male,Single,Finance,Engineer,3,8088,87,5,2,5,3,1,1,15,No,8,42,17,3,2,1,45,4,No
+256,27,Female,Single,HR,Technician,2,7040,59,16,14,1,3,3,2,13,No,5,64,7,3,2,3,7,0,No
+257,46,Male,Married,Finance,Engineer,3,13674,11,0,0,0,2,3,3,10,No,1,51,2,1,3,3,35,3,No
+258,48,Male,Single,Finance,Analyst,3,6969,54,13,12,5,3,3,2,35,Yes,3,47,8,2,1,2,49,4,No
+259,32,Female,Married,Sales,Technician,2,10297,75,5,3,5,2,1,1,13,No,4,55,2,1,2,2,49,2,No
+260,19,Female,Single,HR,Sales Representative,3,7468,73,19,17,8,1,1,1,1,Yes,4,56,1,3,1,2,46,0,Yes
+261,18,Male,Single,Sales,Analyst,4,11364,86,10,8,0,2,1,3,35,No,2,57,17,2,1,1,18,5,Yes
+262,54,Male,Divorced,R&D,Manager,1,14390,22,18,17,1,2,3,3,17,No,8,40,0,2,1,2,43,4,No
+263,31,Male,Divorced,Finance,Manager,3,11930,74,19,17,5,1,2,1,23,No,7,53,2,2,2,1,22,2,No
+264,46,Male,Single,HR,Manager,1,14854,34,15,14,6,2,1,2,13,No,8,56,2,3,3,1,44,1,No
+265,18,Female,Single,R&D,Technician,1,1178,5,15,12,10,1,2,2,15,Yes,4,44,10,1,1,3,23,6,Yes
+266,24,Female,Divorced,HR,Technician,4,6325,82,15,13,1,2,2,1,16,No,6,56,8,1,2,3,6,2,No
+267,50,Male,Divorced,HR,Technician,3,4918,48,0,0,0,1,3,3,4,Yes,7,67,15,3,2,3,16,5,Yes
+268,52,Male,Divorced,R&D,Manager,1,3728,27,6,4,1,3,2,3,6,No,4,66,5,3,2,3,26,1,No
+269,38,Female,Single,Sales,Manager,3,14502,46,18,15,15,1,3,2,26,No,2,36,3,2,3,1,15,0,No
+270,39,Female,Divorced,HR,Sales Representative,3,3121,29,4,2,4,2,1,1,23,Yes,8,67,16,1,1,2,32,0,Yes
+271,41,Male,Single,Sales,Technician,2,3415,98,7,6,2,1,1,2,28,No,1,52,9,1,1,2,17,0,No
+272,46,Male,Married,IT,Analyst,4,9055,51,10,7,8,1,3,3,14,Yes,7,53,19,2,1,2,26,5,No
+273,35,Female,Single,IT,Manager,1,12049,23,16,13,0,1,3,3,25,Yes,4,41,13,2,1,2,1,0,Yes
+274,33,Female,Married,R&D,Analyst,2,7031,24,15,15,13,3,2,2,13,Yes,9,54,2,1,2,3,2,5,No
+275,29,Female,Single,R&D,Manager,4,11521,25,15,12,7,2,2,1,22,Yes,7,51,15,2,3,2,3,6,No
+276,19,Female,Married,IT,Manager,4,2532,10,12,9,5,2,3,2,29,Yes,8,41,15,3,2,3,43,4,No
+277,22,Male,Divorced,IT,Manager,1,1534,57,4,4,2,1,2,1,25,Yes,5,45,5,2,1,3,14,6,Yes
+278,29,Female,Divorced,HR,Sales Representative,2,13921,21,16,14,0,3,2,1,33,Yes,6,38,17,1,3,2,12,0,No
+279,23,Female,Single,IT,Engineer,3,12134,16,8,7,7,2,3,1,35,Yes,4,42,3,1,2,1,14,7,No
+280,38,Female,Single,Finance,Manager,2,11918,24,6,6,0,2,2,2,21,Yes,7,40,16,3,2,2,24,2,Yes
+281,25,Male,Married,R&D,Sales Representative,2,11278,92,0,0,0,2,1,2,26,Yes,9,66,9,2,1,3,23,1,Yes
+282,57,Female,Divorced,R&D,Sales Representative,1,7401,22,14,14,4,2,3,3,17,Yes,8,42,11,1,2,3,49,2,No
+283,43,Female,Single,R&D,Sales Representative,4,12305,23,17,13,15,1,2,1,7,Yes,5,60,12,3,1,3,26,7,Yes
+284,29,Female,Divorced,Finance,Analyst,2,11828,90,11,10,4,3,2,2,23,Yes,7,43,14,1,1,1,11,1,No
+285,58,Male,Married,HR,Manager,4,7782,11,7,4,7,3,3,3,35,No,1,38,10,2,1,1,23,4,No
+286,44,Male,Single,IT,Technician,3,13355,84,9,9,9,1,1,1,11,No,4,62,2,1,2,2,34,4,Yes
+287,31,Male,Married,Finance,Technician,1,13358,60,8,4,2,2,3,1,14,No,5,63,18,2,3,2,12,5,No
+288,35,Female,Single,Finance,Manager,4,5196,71,8,4,4,2,3,3,33,No,4,63,8,3,1,2,15,3,Yes
+289,29,Female,Single,HR,Manager,1,8334,94,16,14,2,2,2,2,38,Yes,6,57,3,1,3,1,4,6,No
+290,41,Female,Divorced,IT,Engineer,2,5022,92,16,13,15,1,3,1,14,No,4,37,16,2,2,1,49,3,No
+291,21,Male,Divorced,HR,Technician,4,13494,27,15,11,4,3,1,2,36,No,2,48,3,3,1,3,44,4,Yes
+292,51,Female,Single,HR,Manager,1,13236,73,9,8,5,3,3,1,7,Yes,1,48,16,1,1,1,31,3,No
+293,55,Male,Divorced,IT,Analyst,2,6111,66,10,10,3,2,2,3,5,No,7,61,15,2,3,2,25,3,No
+294,38,Female,Divorced,Sales,Technician,3,2407,69,12,10,9,1,3,1,39,Yes,6,54,19,1,2,1,48,6,Yes
+295,30,Male,Divorced,Sales,Sales Representative,1,14633,23,18,17,9,3,1,1,26,Yes,4,53,16,1,3,2,7,0,No
+296,57,Male,Married,Sales,Technician,2,1203,72,8,5,2,2,1,2,18,No,1,64,10,3,3,1,1,6,Yes
+297,26,Male,Single,IT,Engineer,3,14676,80,19,19,16,1,1,2,31,No,6,52,15,2,3,2,39,0,Yes
+298,25,Female,Divorced,HR,Analyst,2,14349,63,8,6,8,2,3,3,34,No,4,54,11,2,3,2,22,6,No
+299,37,Male,Married,Finance,Sales Representative,1,10350,61,11,10,4,2,2,2,11,No,2,44,14,2,2,1,4,6,No
+300,48,Male,Divorced,HR,Manager,2,13332,62,18,17,11,3,2,2,36,No,3,37,9,3,3,1,12,4,No
+301,24,Male,Married,Finance,Manager,3,7743,21,19,17,4,2,1,3,12,Yes,8,38,2,3,1,1,40,7,Yes
+302,48,Female,Single,R&D,Analyst,2,1845,17,5,5,3,1,3,1,1,Yes,4,36,19,3,3,2,22,6,Yes
+303,20,Male,Married,Finance,Technician,4,12878,43,12,12,8,1,1,1,9,Yes,8,50,12,3,3,1,26,2,Yes
+304,27,Female,Married,IT,Engineer,1,5934,70,5,5,3,1,2,2,15,No,7,51,12,3,2,1,23,2,No
+305,55,Female,Married,Finance,Sales Representative,3,10979,97,7,3,0,1,2,2,4,Yes,6,64,18,3,2,3,42,2,No
+306,35,Male,Single,IT,Manager,4,11589,17,8,6,4,3,1,3,19,No,7,39,1,1,3,2,48,6,No
+307,46,Female,Single,HR,Engineer,3,14059,7,19,17,0,2,2,3,26,Yes,7,65,5,2,2,3,36,2,No
+308,18,Male,Divorced,IT,Analyst,3,3944,29,10,7,2,3,3,2,17,Yes,5,43,1,2,2,1,31,1,No
+309,53,Female,Single,Sales,Sales Representative,3,1969,9,13,12,12,1,1,2,37,Yes,8,39,14,3,1,1,3,3,Yes
+310,30,Female,Divorced,IT,Technician,2,1437,31,5,4,1,2,3,2,24,No,8,67,6,2,1,3,21,7,No
+311,25,Female,Married,HR,Sales Representative,1,9175,13,14,13,9,1,2,1,36,Yes,7,63,15,2,2,3,14,4,Yes
+312,26,Male,Divorced,IT,Technician,2,2564,55,16,14,7,3,1,1,6,No,9,61,13,2,1,1,27,0,Yes
+313,59,Female,Single,R&D,Engineer,2,9828,62,5,1,1,2,2,2,22,No,6,54,6,1,1,1,1,4,Yes
+314,47,Male,Divorced,IT,Engineer,4,6077,68,11,7,9,1,1,3,9,No,4,50,7,3,1,3,15,7,Yes
+315,51,Male,Single,HR,Engineer,4,2322,73,2,0,1,3,2,2,38,No,2,57,6,3,3,3,12,6,No
+316,50,Male,Divorced,HR,Sales Representative,3,11694,36,3,0,1,1,1,1,34,Yes,6,59,15,2,3,1,5,7,Yes
+317,41,Male,Single,Finance,Technician,1,14667,40,3,0,3,1,2,2,15,No,6,36,3,3,3,3,29,5,Yes
+318,34,Female,Divorced,IT,Sales Representative,3,7093,53,4,3,3,2,2,3,32,No,7,54,1,3,1,3,37,1,No
+319,29,Male,Divorced,Finance,Engineer,1,12600,36,9,7,0,1,1,2,8,No,4,52,8,2,1,1,14,0,Yes
+320,59,Male,Divorced,R&D,Analyst,2,14041,61,16,13,6,3,2,3,37,Yes,2,54,15,1,1,2,13,3,Yes
+321,50,Female,Single,Finance,Manager,4,11116,73,12,12,9,1,2,3,29,Yes,3,60,8,2,2,2,3,5,No
+322,30,Male,Divorced,Sales,Manager,1,8925,45,11,8,1,2,1,2,4,No,8,59,1,1,2,3,6,5,No
+323,30,Male,Married,Sales,Technician,2,1810,64,16,15,11,1,2,3,38,No,2,55,3,2,2,1,30,1,Yes
+324,47,Female,Married,Sales,Sales Representative,3,5376,23,4,2,2,3,3,2,26,No,2,63,6,1,1,3,37,2,No
+325,33,Male,Divorced,HR,Analyst,4,14956,96,4,4,1,1,2,3,12,Yes,7,67,10,2,2,1,30,1,Yes
+326,56,Male,Married,Sales,Sales Representative,2,13161,10,13,12,5,2,2,3,7,No,1,63,5,2,2,2,6,1,No
+327,52,Female,Married,IT,Manager,1,11892,89,8,7,4,3,3,1,14,No,9,47,1,3,2,2,35,5,No
+328,59,Female,Divorced,Sales,Engineer,3,4281,77,19,16,4,3,3,1,29,No,1,61,17,1,1,2,37,4,No
+329,41,Male,Married,Finance,Engineer,3,13089,50,2,0,2,2,1,3,15,No,3,36,1,2,3,3,40,1,No
+330,31,Female,Single,Sales,Technician,3,8669,94,17,17,5,3,1,1,0,No,6,62,12,1,3,3,40,1,No
+331,29,Male,Married,R&D,Sales Representative,1,5362,73,2,0,0,2,3,1,38,No,5,62,10,3,1,2,40,0,Yes
+332,19,Male,Single,R&D,Manager,1,3739,49,19,15,5,2,1,2,31,Yes,9,37,0,1,3,1,13,2,No
+333,42,Male,Divorced,IT,Analyst,2,3017,26,6,2,0,3,2,3,19,No,8,67,7,2,2,1,45,1,No
+334,49,Female,Divorced,Finance,Sales Representative,4,14809,91,17,13,17,3,1,3,4,Yes,9,44,17,1,2,3,4,1,Yes
+335,33,Male,Married,HR,Technician,3,14390,53,0,0,0,1,1,3,16,Yes,4,64,18,1,3,1,18,6,Yes
+336,50,Male,Married,Sales,Sales Representative,4,11165,21,18,16,5,3,1,2,19,No,8,55,10,3,2,1,30,6,Yes
+337,24,Female,Divorced,HR,Analyst,3,13016,25,17,15,3,1,1,2,23,Yes,9,36,8,1,1,2,3,3,Yes
+338,50,Male,Single,R&D,Technician,2,12182,83,12,11,8,2,2,2,6,Yes,8,65,9,1,2,2,48,7,No
+339,44,Male,Divorced,Finance,Manager,2,7033,41,8,5,2,2,2,2,18,Yes,3,45,16,3,2,3,19,3,No
+340,54,Male,Divorced,R&D,Manager,3,4435,6,19,16,3,2,2,2,22,No,3,45,1,3,1,3,37,1,Yes
+341,31,Female,Married,IT,Sales Representative,3,13682,67,11,8,2,1,3,2,27,No,9,55,9,3,3,3,48,5,No
+342,49,Female,Divorced,R&D,Technician,4,11203,82,7,7,0,3,3,1,20,Yes,1,42,18,1,1,3,31,1,No
+343,31,Male,Single,HR,Manager,3,9598,33,16,13,13,2,1,2,5,Yes,6,61,17,1,2,2,40,6,Yes
+344,39,Female,Single,HR,Analyst,4,6432,32,7,4,6,3,1,2,10,No,3,63,9,3,2,2,18,3,Yes
+345,59,Female,Single,R&D,Analyst,3,7404,53,1,0,0,1,2,3,39,Yes,7,62,13,1,2,2,4,1,No
+346,42,Male,Married,Finance,Technician,3,14163,99,14,13,9,3,3,3,22,No,7,68,9,3,2,1,48,2,No
+347,59,Male,Married,Finance,Sales Representative,3,4110,83,15,13,7,2,3,3,18,No,5,48,0,2,3,2,22,2,No
+348,35,Male,Married,Finance,Engineer,3,12484,98,1,1,0,2,1,1,9,No,7,42,4,2,1,3,6,3,Yes
+349,36,Female,Divorced,Sales,Engineer,4,9701,44,4,4,0,2,2,1,22,Yes,7,49,19,2,1,3,46,7,Yes
+350,39,Male,Divorced,IT,Engineer,1,2325,42,7,3,2,2,3,3,16,No,4,50,8,1,1,1,13,4,Yes
+351,22,Female,Married,IT,Sales Representative,1,1064,24,14,13,8,1,1,3,10,No,9,59,10,2,2,3,26,5,Yes
+352,57,Male,Married,Finance,Technician,2,1779,39,12,9,5,3,3,3,21,No,8,67,6,3,3,3,39,1,No
+353,43,Female,Single,Sales,Manager,1,14644,59,3,3,3,1,2,1,30,No,8,49,0,2,1,1,23,7,No
+354,31,Male,Single,R&D,Technician,1,2054,58,4,0,3,3,1,3,34,No,7,66,2,2,1,3,37,6,Yes
+355,25,Male,Divorced,Sales,Sales Representative,2,9047,31,15,12,9,1,1,3,28,No,1,50,18,2,2,1,29,0,No
+356,48,Female,Divorced,Sales,Sales Representative,3,5009,52,11,11,6,2,3,2,34,Yes,8,39,17,1,2,2,22,6,No
+357,29,Male,Married,IT,Analyst,1,3838,13,15,13,3,3,2,3,36,No,6,67,11,2,2,3,49,5,No
+358,24,Female,Single,R&D,Engineer,3,9101,88,1,1,1,2,1,3,9,No,2,61,16,3,3,2,11,5,No
+359,58,Female,Divorced,HR,Analyst,1,13007,58,11,7,7,3,3,2,18,No,8,52,19,3,3,1,49,3,Yes
+360,24,Female,Divorced,Sales,Sales Representative,4,12028,41,19,19,6,3,2,1,28,Yes,1,41,10,1,3,3,4,3,No
+361,30,Male,Divorced,HR,Technician,3,5439,84,0,0,0,2,3,3,30,No,2,49,10,2,3,3,29,1,No
+362,56,Male,Single,Sales,Technician,4,6755,23,6,2,4,2,1,2,10,No,7,53,5,3,1,3,39,1,No
+363,23,Male,Single,R&D,Technician,4,7941,75,8,8,0,3,1,3,5,Yes,1,35,12,1,1,3,18,0,Yes
+364,44,Male,Divorced,R&D,Analyst,1,8065,57,16,12,1,3,2,1,3,Yes,4,55,12,2,1,3,25,1,No
+365,37,Male,Married,Finance,Sales Representative,1,2069,20,13,10,12,3,1,3,32,No,6,44,17,2,2,1,27,4,Yes
+366,43,Male,Divorced,Sales,Engineer,3,13914,67,16,14,15,3,2,1,16,No,5,57,19,3,1,1,34,1,Yes
+367,23,Female,Divorced,IT,Manager,1,9940,41,5,5,5,2,2,1,23,No,8,58,15,2,1,2,35,1,No
+368,53,Female,Married,IT,Analyst,2,4057,43,6,4,3,3,1,1,17,No,8,58,8,3,3,1,41,1,No
+369,55,Male,Divorced,IT,Engineer,4,12070,79,14,10,3,2,2,3,6,Yes,2,58,1,2,3,2,7,5,Yes
+370,22,Male,Single,HR,Sales Representative,3,4969,89,19,15,3,3,2,2,0,Yes,1,58,13,1,3,3,13,7,No
+371,41,Female,Married,HR,Sales Representative,1,1946,39,10,6,4,1,2,2,38,Yes,3,44,9,2,3,2,30,7,Yes
+372,49,Female,Divorced,Sales,Technician,2,1105,6,16,13,8,2,2,2,0,No,5,53,3,1,1,1,22,1,No
+373,56,Male,Married,IT,Technician,4,5992,41,6,4,5,1,1,1,25,No,8,67,1,2,3,2,43,0,Yes
+374,21,Male,Single,Sales,Technician,2,12004,92,1,1,1,3,1,3,38,No,1,55,8,3,3,3,5,0,Yes
+375,58,Male,Divorced,Finance,Sales Representative,3,12880,10,1,1,1,1,1,1,5,Yes,2,63,13,1,3,2,36,7,Yes
+376,21,Female,Married,Finance,Engineer,4,5521,33,17,16,9,3,2,1,38,No,4,54,9,3,1,2,46,7,No
+377,56,Male,Married,Finance,Sales Representative,1,14824,9,15,15,11,3,3,1,16,No,3,65,16,3,1,2,8,4,No
+378,22,Female,Married,Sales,Engineer,4,13847,77,1,0,0,2,2,1,2,No,7,46,9,2,3,2,30,5,Yes
+379,19,Female,Married,HR,Analyst,1,10972,76,15,14,12,3,1,2,4,Yes,6,45,10,1,2,1,10,1,Yes
+380,26,Female,Divorced,HR,Analyst,1,3492,74,13,10,9,3,3,1,18,No,1,40,10,2,1,3,7,1,Yes
+381,42,Male,Divorced,HR,Manager,1,9163,27,14,10,8,2,2,1,27,Yes,9,47,1,3,1,2,38,7,No
+382,45,Male,Single,Sales,Sales Representative,2,3486,8,2,1,2,3,2,2,11,Yes,3,36,10,1,1,3,29,1,No
+383,31,Female,Single,HR,Manager,2,12391,86,18,15,7,3,3,3,21,Yes,1,48,18,1,2,2,21,3,No
+384,28,Female,Divorced,R&D,Engineer,4,7791,8,11,8,10,1,3,1,8,Yes,9,47,15,2,2,2,13,6,Yes
+385,36,Female,Divorced,Sales,Technician,1,10657,32,1,0,1,2,1,2,8,No,4,49,0,1,2,2,13,5,No
+386,33,Female,Single,IT,Analyst,3,10852,16,19,17,16,3,2,3,32,No,2,62,13,2,1,1,15,6,Yes
+387,59,Female,Married,Sales,Analyst,3,7300,99,19,19,18,2,2,1,7,Yes,9,68,4,3,1,1,8,7,Yes
+388,32,Male,Married,IT,Analyst,2,12624,86,2,1,0,3,3,1,26,No,1,39,6,3,1,1,15,2,No
+389,29,Female,Single,IT,Sales Representative,2,5136,43,1,0,0,1,1,3,16,No,1,52,18,1,1,3,45,6,Yes
+390,21,Male,Divorced,Sales,Manager,4,5243,79,11,10,11,1,3,1,11,No,9,59,2,1,2,1,17,0,No
+391,22,Male,Single,IT,Engineer,3,5616,98,17,17,1,2,2,1,25,No,8,49,18,2,2,3,10,2,No
+392,25,Female,Divorced,Finance,Technician,2,7236,69,3,3,0,2,1,3,22,Yes,4,49,12,2,3,1,24,2,No
+393,32,Female,Single,IT,Analyst,1,10267,32,0,0,0,3,2,3,36,No,2,40,7,1,2,3,10,5,No
+394,48,Male,Married,Sales,Manager,2,4567,43,4,2,1,3,3,1,36,No,4,43,6,2,1,3,45,4,No
+395,39,Female,Divorced,HR,Manager,2,3720,20,16,16,10,2,3,2,25,No,7,57,9,3,1,1,9,6,No
+396,30,Female,Divorced,IT,Sales Representative,1,13638,56,1,1,0,3,2,2,20,No,4,53,0,3,1,2,34,7,No
+397,36,Male,Married,Finance,Sales Representative,1,13755,42,17,14,8,3,1,3,5,No,8,47,10,3,3,1,27,1,Yes
+398,43,Male,Married,HR,Analyst,4,10116,21,3,0,0,1,3,1,3,Yes,3,36,16,2,2,3,27,0,No
+399,18,Male,Divorced,IT,Analyst,1,8986,19,7,6,2,3,2,3,9,Yes,1,53,4,3,3,3,19,6,No
+400,56,Female,Married,Sales,Technician,4,11245,42,8,5,4,1,1,3,26,No,6,62,8,2,1,2,18,2,Yes
+401,46,Male,Married,Sales,Engineer,3,14979,64,2,1,0,3,2,2,6,No,8,61,4,2,2,3,39,6,No
+402,18,Female,Single,Sales,Sales Representative,3,11093,90,10,9,10,2,1,3,25,No,9,45,10,2,1,2,6,4,Yes
+403,48,Female,Single,IT,Manager,4,14261,51,4,3,3,2,3,2,9,No,5,47,0,1,3,1,38,0,No
+404,45,Male,Single,Sales,Sales Representative,1,6167,76,16,16,11,1,2,1,0,No,3,53,10,1,2,2,9,7,No
+405,53,Male,Single,Sales,Analyst,4,3963,54,2,0,0,2,1,2,36,No,1,50,10,3,2,1,16,5,Yes
+406,41,Female,Single,Finance,Sales Representative,2,13888,96,14,12,10,2,2,1,30,Yes,9,69,13,1,2,3,4,2,Yes
+407,42,Male,Divorced,Finance,Analyst,2,2845,21,12,10,2,1,2,2,26,Yes,1,69,3,1,2,1,36,2,No
+408,43,Female,Divorced,HR,Analyst,1,4499,47,4,3,0,2,1,1,8,No,2,42,10,2,2,1,17,6,Yes
+409,47,Female,Single,IT,Sales Representative,3,11220,58,7,6,4,3,2,2,10,Yes,1,41,15,2,2,3,14,3,No
+410,33,Male,Single,IT,Manager,2,10834,53,8,7,0,3,3,2,4,No,4,37,16,3,2,3,45,3,No
+411,36,Male,Married,IT,Analyst,3,10840,48,9,5,3,2,1,3,3,No,3,44,14,2,3,2,1,2,Yes
+412,48,Male,Single,IT,Engineer,1,7610,33,0,0,0,1,1,2,25,Yes,2,61,0,2,3,3,21,0,Yes
+413,38,Male,Divorced,R&D,Manager,1,6241,42,10,10,6,3,1,1,18,No,6,48,16,1,3,2,44,7,No
+414,55,Male,Divorced,IT,Sales Representative,1,12036,73,5,5,5,1,1,2,23,Yes,3,68,16,3,3,1,32,4,Yes
+415,50,Female,Single,IT,Technician,4,12590,28,12,8,6,2,2,1,6,No,1,62,7,3,2,1,33,0,No
+416,51,Female,Married,Sales,Analyst,3,7655,94,0,0,0,1,1,3,25,No,4,46,0,2,1,3,26,0,Yes
+417,33,Female,Married,R&D,Engineer,2,11720,28,8,4,1,3,3,1,18,No,6,45,0,1,3,2,37,0,No
+418,50,Female,Divorced,Finance,Manager,1,7633,97,5,5,3,1,2,2,19,No,3,52,3,1,3,1,45,0,Yes
+419,21,Female,Married,IT,Technician,4,11822,37,11,9,7,1,2,2,33,Yes,4,48,0,2,2,3,28,4,No
+420,50,Female,Divorced,R&D,Sales Representative,1,1456,31,16,13,12,2,1,3,32,Yes,6,39,15,2,1,2,1,2,Yes
+421,25,Male,Married,Sales,Manager,1,10910,44,18,17,17,1,3,1,17,No,7,50,15,3,2,1,7,5,Yes
+422,42,Female,Married,IT,Analyst,1,11383,80,16,12,12,1,1,3,34,Yes,6,43,8,2,2,1,39,2,Yes
+423,34,Female,Married,IT,Technician,2,4094,98,17,13,9,1,1,1,33,Yes,5,56,16,3,2,1,9,3,Yes
+424,39,Male,Single,IT,Sales Representative,1,13043,8,12,8,8,3,2,3,22,No,5,39,16,2,1,2,25,2,No
+425,19,Female,Single,R&D,Technician,4,2004,51,13,11,1,2,2,3,32,No,1,57,7,3,3,3,36,2,No
+426,20,Male,Married,HR,Engineer,3,3544,64,5,5,4,2,1,3,18,No,1,60,15,1,1,1,5,4,Yes
+427,40,Female,Divorced,Finance,Engineer,3,10781,8,18,18,12,2,3,2,9,Yes,5,57,5,2,2,1,13,2,No
+428,36,Male,Married,R&D,Manager,4,2573,52,10,10,6,3,3,2,3,No,9,60,1,3,2,1,21,1,Yes
+429,45,Female,Married,Finance,Technician,4,14273,99,18,17,8,2,1,1,1,No,4,46,8,1,3,2,33,1,No
+430,39,Male,Single,HR,Manager,4,1591,19,15,11,6,3,1,1,6,No,6,47,14,3,2,2,29,5,Yes
+431,22,Female,Divorced,HR,Engineer,1,8750,50,2,0,0,2,2,2,7,Yes,8,41,13,3,3,2,22,4,Yes
+432,18,Male,Divorced,R&D,Analyst,1,5355,7,19,19,2,2,2,3,22,Yes,8,39,8,2,1,3,12,4,Yes
+433,45,Female,Married,HR,Analyst,3,5962,30,6,6,2,2,1,1,30,No,2,67,6,1,3,3,32,1,No
+434,56,Male,Married,R&D,Engineer,2,11315,39,10,6,8,1,2,3,3,Yes,5,35,2,1,2,2,17,5,No
+435,52,Female,Single,IT,Engineer,2,5023,81,18,17,6,1,1,2,6,No,8,53,10,1,2,2,48,6,Yes
+436,58,Male,Divorced,HR,Manager,1,10911,48,5,2,3,2,2,2,3,Yes,7,42,10,3,1,3,17,1,No
+437,46,Female,Married,Finance,Sales Representative,4,3949,42,10,9,0,3,3,1,34,Yes,2,61,2,1,2,3,28,6,No
+438,26,Female,Divorced,R&D,Analyst,3,8145,55,18,14,11,1,3,1,23,Yes,7,57,14,3,2,3,3,6,Yes
+439,18,Male,Single,R&D,Manager,3,7572,97,19,19,6,3,2,3,16,Yes,1,61,14,1,2,1,23,4,No
+440,32,Female,Single,IT,Technician,1,1444,74,14,13,5,1,1,1,16,Yes,7,53,1,3,3,2,15,6,Yes
+441,20,Female,Divorced,HR,Analyst,3,1477,47,6,3,4,3,1,1,28,No,3,60,4,3,2,3,30,2,No
+442,24,Male,Single,Sales,Sales Representative,1,1296,81,14,10,12,3,3,3,7,Yes,3,42,8,2,2,1,12,2,Yes
+443,58,Female,Married,IT,Engineer,4,10046,88,17,16,10,1,1,2,22,Yes,4,36,1,1,2,1,13,3,Yes
+444,25,Female,Married,HR,Analyst,1,6353,78,2,0,1,1,1,3,33,No,8,41,5,3,2,3,42,0,Yes
+445,38,Female,Divorced,HR,Manager,3,1011,11,16,16,14,3,1,2,36,No,3,35,7,3,2,1,19,0,No
+446,29,Male,Single,Finance,Sales Representative,3,6957,12,3,0,0,2,3,3,3,Yes,5,36,6,1,1,2,23,1,Yes
+447,50,Female,Married,R&D,Sales Representative,2,13985,83,9,8,8,3,3,1,8,No,9,50,3,3,1,3,31,5,Yes
+448,21,Female,Married,R&D,Analyst,2,10436,10,10,6,2,2,1,2,0,Yes,9,42,10,3,2,3,36,1,No
+449,31,Female,Married,IT,Manager,1,6741,26,3,1,1,3,1,3,15,No,2,57,10,3,1,1,32,5,Yes
+450,43,Male,Single,Finance,Engineer,2,9584,80,1,0,1,1,2,1,3,No,6,61,9,2,1,2,10,5,Yes
+451,22,Female,Married,IT,Engineer,3,10582,93,18,17,3,3,3,3,9,No,6,50,18,2,1,3,49,0,No
+452,47,Male,Married,IT,Engineer,1,1442,69,3,0,1,2,3,3,5,No,1,55,14,3,1,3,19,4,No
+453,29,Male,Divorced,Sales,Technician,1,3939,14,5,5,1,1,2,2,25,Yes,8,58,12,1,3,2,35,0,No
+454,30,Female,Single,HR,Sales Representative,4,2536,67,1,0,1,3,1,1,11,Yes,4,60,15,3,2,3,12,4,Yes
+455,51,Male,Single,IT,Sales Representative,2,9930,29,9,7,5,3,2,3,23,No,9,63,4,2,2,2,35,0,No
+456,41,Female,Single,R&D,Engineer,1,7436,7,2,0,2,2,2,2,35,No,8,51,7,3,1,1,31,2,No
+457,48,Female,Divorced,HR,Analyst,4,4428,52,8,5,5,2,2,3,6,Yes,9,44,18,3,1,1,45,0,Yes
+458,41,Male,Divorced,IT,Manager,3,13426,80,9,5,4,2,2,1,36,No,3,36,17,1,1,3,42,0,No
+459,39,Male,Single,Finance,Sales Representative,4,1661,42,18,16,15,3,3,3,22,No,2,60,12,2,2,3,23,2,No
+460,44,Female,Divorced,IT,Analyst,3,4544,28,7,7,5,1,2,1,18,No,8,55,3,3,3,2,6,4,No
+461,59,Female,Single,Finance,Engineer,1,11457,52,11,7,10,3,2,1,32,No,6,42,6,2,1,2,16,2,No
+462,27,Female,Single,Finance,Engineer,3,9744,57,5,3,0,1,1,2,36,No,2,62,5,1,1,2,7,5,Yes
+463,46,Female,Divorced,Sales,Manager,3,2265,34,1,0,0,3,3,3,7,Yes,8,57,11,1,2,3,28,5,No
+464,30,Male,Divorced,R&D,Engineer,3,11979,13,15,13,3,2,3,1,23,No,5,60,13,3,1,2,7,4,Yes
+465,40,Female,Married,IT,Sales Representative,4,1754,48,14,12,6,3,2,3,7,No,9,37,4,2,2,3,6,2,No
+466,57,Male,Divorced,R&D,Technician,4,7351,5,12,10,4,1,2,1,2,Yes,4,49,12,1,1,2,44,5,Yes
+467,31,Female,Married,Sales,Manager,3,7999,53,18,14,8,3,1,2,34,No,8,63,12,3,1,2,14,2,No
+468,56,Male,Divorced,IT,Sales Representative,4,2041,20,11,8,7,3,1,2,25,No,5,63,12,1,1,3,36,4,Yes
+469,54,Male,Single,Sales,Manager,4,12427,65,7,7,7,1,1,2,26,Yes,2,38,0,3,1,1,3,3,Yes
+470,48,Female,Married,R&D,Engineer,3,2797,33,16,12,16,1,3,2,10,No,7,39,11,1,1,1,18,2,Yes
+471,22,Male,Divorced,Finance,Technician,1,13933,75,9,9,3,1,3,1,39,No,5,69,16,3,1,1,42,6,Yes
+472,31,Female,Single,Finance,Manager,4,11135,24,4,2,3,2,3,2,22,Yes,1,55,14,2,2,3,42,6,No
+473,40,Male,Single,R&D,Analyst,3,11184,57,19,17,10,3,1,2,3,No,9,62,15,1,2,2,4,6,Yes
+474,20,Female,Single,IT,Technician,2,3500,13,19,16,17,3,3,1,35,Yes,1,51,1,1,1,1,15,6,Yes
+475,45,Male,Married,Finance,Technician,3,10004,79,4,4,0,1,2,1,2,Yes,5,65,9,1,2,3,41,7,No
+476,37,Male,Divorced,R&D,Technician,1,2793,62,18,15,14,2,1,1,0,No,9,37,18,2,2,1,25,3,Yes
+477,25,Male,Married,HR,Technician,1,11917,39,10,8,2,2,3,3,10,No,8,47,4,1,1,1,49,1,No
+478,24,Male,Married,Finance,Technician,3,2906,62,11,8,1,2,1,1,3,No,7,60,15,2,1,2,35,2,Yes
+479,25,Female,Married,IT,Technician,3,8254,27,17,15,9,3,3,2,2,Yes,3,62,16,3,1,3,20,4,No
+480,28,Female,Divorced,Sales,Manager,4,3514,8,4,3,0,2,1,2,27,No,1,60,2,3,3,1,28,0,No
+481,55,Male,Single,Finance,Technician,1,2626,68,14,12,7,1,2,2,34,No,8,67,11,1,1,1,36,0,Yes
+482,19,Male,Single,Finance,Analyst,4,1818,53,19,18,10,1,3,2,7,No,8,43,6,2,2,1,43,7,Yes
+483,45,Male,Divorced,HR,Technician,3,9651,68,19,16,2,1,3,1,18,No,5,51,13,3,2,2,3,3,No
+484,42,Female,Divorced,R&D,Analyst,3,14176,30,10,6,0,1,1,1,8,Yes,5,65,6,3,2,2,12,7,No
+485,33,Female,Single,Sales,Analyst,3,2245,56,19,18,12,1,3,3,7,Yes,3,65,2,2,1,1,32,5,Yes
+486,37,Female,Married,Finance,Manager,1,7201,97,18,15,7,2,3,2,7,No,6,48,4,1,2,1,7,7,No
+487,31,Female,Single,Sales,Analyst,4,4060,40,6,4,6,1,2,2,23,Yes,6,44,15,3,1,1,6,7,Yes
+488,29,Female,Divorced,HR,Technician,3,6055,81,7,3,0,1,1,2,35,Yes,9,36,3,2,1,3,42,1,No
+489,49,Male,Married,R&D,Sales Representative,2,10228,59,16,16,11,2,2,3,36,Yes,9,64,6,3,2,2,40,5,No
+490,28,Female,Single,IT,Analyst,1,9348,91,17,15,12,3,2,1,38,No,1,59,0,1,2,3,16,3,No
+491,55,Female,Single,Finance,Analyst,2,9609,95,11,8,8,3,1,2,32,Yes,7,46,1,1,2,3,4,3,Yes
+492,31,Female,Single,Finance,Sales Representative,2,9473,54,1,0,1,2,3,1,24,No,1,47,18,1,3,3,37,0,No
+493,55,Male,Single,HR,Sales Representative,3,3685,64,10,7,3,3,2,2,37,No,4,42,7,1,2,3,36,3,No
+494,39,Male,Single,IT,Technician,3,12788,32,19,19,15,2,1,3,23,No,6,38,1,2,2,1,42,6,No
+495,32,Male,Divorced,Sales,Engineer,2,13888,89,8,6,6,1,1,3,0,Yes,4,67,8,2,1,3,8,3,Yes
+496,26,Male,Married,IT,Analyst,4,5062,82,18,15,17,1,1,3,0,No,4,57,15,3,1,1,45,0,Yes
+497,49,Male,Married,Finance,Technician,1,8288,83,1,1,1,1,1,1,4,No,6,48,16,1,3,1,1,4,Yes
+498,23,Male,Married,Sales,Engineer,3,9841,55,18,16,3,3,2,3,33,No,6,41,15,1,3,2,26,1,No
+499,26,Male,Married,R&D,Manager,4,3293,85,12,9,9,1,2,1,21,No,9,37,3,2,2,2,48,6,Yes
+500,31,Female,Divorced,Sales,Technician,2,9031,27,13,11,6,3,1,3,27,No,8,40,1,2,1,3,9,6,No
+501,44,Male,Single,IT,Engineer,4,3711,75,1,0,0,3,3,1,12,Yes,2,69,0,3,2,1,5,0,No
+502,22,Female,Divorced,R&D,Analyst,2,6396,58,9,5,8,1,3,3,21,Yes,8,40,2,3,2,3,6,7,Yes
+503,34,Male,Single,R&D,Sales Representative,1,1246,54,11,9,0,3,2,3,7,No,2,64,16,3,1,1,38,4,No
+504,43,Female,Divorced,Finance,Sales Representative,1,11307,9,13,10,9,2,1,3,25,No,2,44,9,1,2,2,21,7,No
+505,57,Male,Married,Sales,Technician,1,9961,70,6,6,1,2,2,1,3,Yes,5,59,16,1,2,1,6,1,No
+506,31,Female,Single,Finance,Engineer,1,6161,85,10,10,4,3,2,1,23,Yes,1,54,2,1,2,3,48,7,Yes
+507,20,Male,Single,Sales,Manager,1,1951,38,8,6,4,1,1,1,24,No,4,44,5,3,2,3,46,0,Yes
+508,32,Male,Married,IT,Sales Representative,1,12885,71,18,16,11,2,1,2,32,Yes,3,66,10,2,3,3,6,7,No
+509,59,Male,Single,R&D,Analyst,2,14290,23,10,7,10,2,3,1,24,No,3,54,15,3,2,3,40,5,No
+510,49,Female,Divorced,R&D,Analyst,4,1881,17,2,0,0,2,2,3,36,Yes,9,61,7,3,3,3,29,6,No
+511,43,Female,Married,IT,Engineer,1,13647,91,14,12,2,2,3,1,18,Yes,5,39,13,2,2,1,7,6,Yes
+512,31,Male,Single,Finance,Analyst,4,4319,21,14,11,5,1,2,1,9,No,4,47,13,3,2,1,21,7,No
+513,22,Male,Married,IT,Analyst,4,6024,40,0,0,0,3,3,1,31,No,2,46,16,3,3,1,38,7,No
+514,42,Female,Single,IT,Sales Representative,4,6562,49,19,18,15,2,1,2,2,Yes,1,50,5,3,3,2,14,5,No
+515,50,Male,Divorced,R&D,Sales Representative,1,5996,97,5,4,5,2,3,1,24,No,3,60,15,3,3,1,16,2,Yes
+516,43,Female,Divorced,Sales,Manager,4,10780,62,8,5,5,2,1,2,26,Yes,9,55,18,2,3,2,14,4,No
+517,49,Female,Divorced,HR,Technician,4,3567,83,11,9,2,2,3,2,35,Yes,3,61,8,3,3,1,7,1,Yes
+518,24,Female,Divorced,R&D,Manager,2,14254,89,4,4,2,2,3,1,26,No,4,58,15,3,2,3,27,2,No
+519,34,Male,Married,Sales,Sales Representative,1,12572,91,5,2,0,2,1,1,6,No,3,36,15,2,2,2,45,6,No
+520,24,Female,Divorced,Sales,Technician,2,5120,89,15,14,3,2,1,2,38,Yes,9,45,16,1,2,1,20,7,Yes
+521,23,Female,Divorced,Finance,Technician,3,10771,36,17,13,13,1,2,2,15,Yes,9,65,16,1,3,2,42,1,Yes
+522,18,Female,Married,Finance,Sales Representative,1,9221,49,3,0,0,1,3,2,36,No,1,50,4,3,3,1,9,1,Yes
+523,20,Female,Married,Sales,Technician,4,2186,58,14,14,13,3,1,3,19,Yes,5,40,4,1,3,2,2,2,No
+524,38,Female,Single,IT,Manager,2,7895,16,16,12,13,2,3,3,13,No,6,37,4,3,3,1,48,6,No
+525,34,Male,Single,IT,Analyst,2,8196,52,1,1,1,2,2,1,38,No,6,60,12,2,1,1,34,6,No
+526,46,Male,Divorced,Sales,Engineer,3,1328,82,8,6,2,3,3,2,17,Yes,5,57,9,3,3,1,3,2,No
+527,47,Female,Married,R&D,Technician,1,7569,88,9,5,1,1,2,3,19,Yes,5,64,11,2,1,2,26,3,Yes
+528,32,Female,Single,IT,Manager,1,9875,20,9,8,0,2,2,3,20,No,3,55,12,2,2,2,24,2,No
+529,39,Female,Single,HR,Manager,4,8429,22,16,12,13,2,2,1,9,Yes,9,38,6,1,2,2,39,4,No
+530,32,Female,Divorced,Finance,Manager,3,14305,12,16,12,10,3,1,2,16,No,6,60,6,1,2,3,48,0,No
+531,20,Female,Divorced,IT,Sales Representative,3,13460,23,4,3,1,3,1,3,9,Yes,3,47,9,3,2,3,24,7,No
+532,27,Female,Divorced,HR,Technician,3,7007,39,16,12,6,1,1,1,22,No,5,58,14,2,1,3,3,1,Yes
+533,26,Female,Divorced,IT,Sales Representative,4,7101,82,9,5,0,2,1,3,18,No,3,47,3,2,3,2,27,6,No
+534,48,Male,Single,Sales,Analyst,1,1909,24,12,10,9,2,2,2,2,Yes,8,69,13,3,1,3,14,4,Yes
+535,57,Female,Divorced,IT,Sales Representative,4,1494,37,6,2,3,3,3,1,13,Yes,1,44,13,2,2,1,17,5,Yes
+536,30,Female,Single,R&D,Engineer,4,4427,29,10,7,9,2,1,2,4,No,8,60,5,3,3,3,44,7,No
+537,23,Male,Married,IT,Technician,1,11494,7,7,4,3,3,1,1,15,No,6,48,12,1,3,1,4,1,No
+538,20,Female,Married,Finance,Engineer,2,5925,5,16,16,8,3,3,1,11,No,2,45,10,3,2,1,20,6,No
+539,51,Male,Single,IT,Engineer,3,10630,86,7,4,4,3,1,1,8,No,9,62,17,1,1,3,8,7,Yes
+540,26,Female,Single,HR,Technician,1,2565,88,5,2,0,1,1,3,34,No,9,64,3,2,2,1,4,0,No
+541,24,Female,Single,Finance,Manager,3,2080,40,13,12,7,3,2,1,22,No,9,37,3,2,3,1,10,4,No
+542,33,Male,Divorced,R&D,Analyst,3,10657,48,15,15,15,2,3,3,27,Yes,6,47,0,3,1,2,32,7,No
+543,59,Male,Divorced,Finance,Analyst,1,8540,85,8,6,8,2,3,1,21,No,7,49,5,1,2,2,8,6,No
+544,23,Male,Single,Sales,Sales Representative,4,14288,10,19,18,6,1,1,2,36,Yes,8,62,17,1,3,2,32,5,Yes
+545,30,Male,Single,Finance,Manager,3,13631,70,16,15,5,3,2,1,39,No,4,57,15,1,2,2,27,3,No
+546,33,Male,Married,R&D,Sales Representative,2,6659,81,3,3,2,2,3,1,31,Yes,9,50,19,3,1,2,8,2,Yes
+547,51,Female,Married,Finance,Sales Representative,4,5090,19,17,13,16,1,1,1,26,Yes,2,35,8,3,1,1,39,7,No
+548,40,Male,Married,Sales,Technician,4,6158,49,13,13,11,1,1,3,3,Yes,2,36,14,2,2,3,47,1,Yes
+549,45,Female,Divorced,HR,Manager,1,2942,41,8,5,2,1,2,1,26,No,2,58,5,1,1,2,39,1,Yes
+550,22,Female,Divorced,HR,Engineer,3,11625,19,6,6,4,3,2,3,33,No,7,53,3,3,2,3,17,2,No
+551,52,Female,Divorced,Sales,Engineer,2,8824,46,14,10,5,1,1,2,23,No,9,66,3,2,1,2,27,2,No
+552,26,Female,Single,IT,Analyst,4,14871,61,10,7,0,2,3,2,10,No,8,55,13,2,2,2,27,7,No
+553,25,Male,Married,IT,Sales Representative,1,2622,80,16,14,1,1,1,2,27,Yes,5,67,19,2,1,2,17,3,Yes
+554,43,Male,Divorced,IT,Technician,3,14350,96,18,15,15,1,3,1,36,No,4,68,12,2,2,2,19,0,No
+555,35,Female,Divorced,R&D,Manager,4,8386,83,12,8,5,1,2,3,18,No,6,40,13,2,3,3,39,3,No
+556,24,Male,Divorced,Sales,Manager,2,4407,29,14,14,1,3,2,1,15,Yes,4,66,11,1,3,2,33,6,No
+557,34,Male,Single,Finance,Sales Representative,2,3163,27,1,0,0,1,2,2,19,Yes,4,57,8,3,3,2,33,5,Yes
+558,36,Female,Divorced,IT,Sales Representative,2,6441,43,16,15,5,3,1,3,1,Yes,7,56,10,3,3,1,2,5,Yes
+559,58,Female,Divorced,HR,Sales Representative,3,9035,45,3,0,3,1,2,2,30,No,6,42,4,1,1,2,32,3,No
+560,42,Female,Single,HR,Technician,2,14743,56,7,4,4,2,3,1,8,No,4,63,6,2,3,2,49,3,No
+561,19,Female,Married,Sales,Manager,4,7088,77,12,10,4,3,2,3,10,No,8,36,18,3,2,1,7,5,No
+562,21,Male,Divorced,Finance,Sales Representative,1,2548,22,15,15,3,2,1,3,20,No,7,69,7,3,2,1,41,7,No
+563,56,Male,Single,R&D,Analyst,3,12685,51,7,6,5,1,2,3,28,No,5,54,0,1,2,3,23,1,No
+564,46,Male,Married,R&D,Technician,2,13656,54,12,12,11,1,1,3,34,No,3,52,0,1,3,3,44,1,Yes
+565,53,Male,Married,Sales,Sales Representative,4,2225,41,12,12,1,2,1,1,23,Yes,2,43,1,3,2,2,46,2,Yes
+566,34,Female,Single,Sales,Technician,1,8493,24,2,0,2,1,1,2,11,No,3,39,4,1,3,2,27,3,Yes
+567,38,Male,Married,Finance,Manager,2,9014,59,16,15,12,1,1,1,5,Yes,6,57,10,3,2,3,13,6,No
+568,19,Male,Divorced,Finance,Sales Representative,4,1219,26,5,3,2,2,2,2,1,No,9,52,18,3,3,1,26,3,No
+569,26,Male,Single,Sales,Technician,4,2575,28,1,0,0,3,1,3,12,No,1,48,13,1,2,2,39,1,Yes
+570,49,Male,Divorced,Finance,Technician,2,3525,64,12,11,2,3,3,1,13,No,4,57,5,2,2,1,30,0,No
+571,51,Female,Married,HR,Manager,4,9259,69,19,17,13,1,1,3,4,No,8,38,6,2,2,3,39,2,No
+572,50,Female,Married,HR,Sales Representative,4,1461,42,15,12,4,3,1,2,14,Yes,3,48,1,1,2,3,12,1,No
+573,27,Female,Married,Sales,Engineer,1,1014,39,15,11,4,1,3,1,38,No,2,55,7,2,2,3,41,0,No
+574,41,Female,Single,Finance,Sales Representative,4,13274,63,16,15,10,3,2,3,21,Yes,8,54,12,1,1,1,2,3,Yes
+575,32,Female,Divorced,IT,Engineer,4,14513,98,8,4,3,3,3,3,3,No,4,50,13,3,1,2,22,5,No
+576,56,Female,Divorced,Finance,Technician,4,9825,63,5,4,5,3,3,3,24,No,9,49,17,3,3,1,39,0,No
+577,27,Female,Married,R&D,Technician,2,14224,13,12,8,4,1,3,2,2,Yes,8,67,6,3,2,2,47,5,No
+578,36,Female,Divorced,IT,Manager,1,4445,32,18,16,15,1,3,1,6,No,5,64,16,3,2,2,12,1,No
+579,35,Female,Divorced,Finance,Sales Representative,4,4727,7,14,13,1,1,2,3,3,Yes,9,57,14,1,1,1,46,6,Yes
+580,42,Female,Single,R&D,Sales Representative,3,4238,69,4,4,3,2,1,2,27,No,6,61,5,3,1,2,18,2,No
+581,29,Male,Single,R&D,Technician,4,6413,19,17,14,15,2,1,1,17,No,5,46,10,1,1,1,3,6,No
+582,40,Male,Married,IT,Technician,3,12774,23,6,3,3,3,3,2,33,Yes,2,54,7,3,3,2,31,5,No
+583,58,Male,Single,R&D,Manager,2,10357,42,1,0,0,2,3,2,5,No,1,41,7,1,2,1,45,4,No
+584,34,Male,Married,IT,Analyst,3,2766,98,5,2,2,1,3,2,8,No,6,62,19,2,2,1,42,1,No
+585,18,Male,Married,HR,Engineer,1,10566,82,14,10,14,3,3,3,8,Yes,4,58,3,2,1,3,4,5,Yes
+586,25,Female,Divorced,HR,Sales Representative,4,2877,90,11,10,7,2,3,3,36,Yes,2,62,8,2,3,3,41,3,Yes
+587,18,Female,Single,Sales,Sales Representative,4,10081,32,17,17,11,3,1,2,4,Yes,7,44,14,1,3,1,47,3,Yes
+588,32,Female,Married,R&D,Manager,2,2369,14,16,12,13,2,1,3,8,No,8,43,6,1,3,1,17,3,Yes
+589,57,Male,Divorced,Finance,Analyst,3,11535,11,5,5,0,3,1,3,39,No,1,56,1,2,1,1,18,7,Yes
+590,59,Female,Married,IT,Technician,1,10015,16,13,13,3,2,2,3,0,Yes,5,53,6,2,2,3,49,7,Yes
+591,56,Male,Single,HR,Manager,1,14721,60,13,13,3,3,3,2,13,Yes,4,44,9,3,2,1,28,2,No
+592,50,Female,Divorced,Sales,Technician,2,13155,27,10,9,8,1,3,1,23,No,3,51,4,1,2,3,20,0,Yes
+593,25,Female,Single,IT,Analyst,4,13646,45,9,8,9,1,1,1,29,Yes,3,55,16,2,1,1,41,7,Yes
+594,36,Female,Divorced,Sales,Sales Representative,1,12640,74,1,0,1,1,2,1,36,Yes,3,64,15,2,3,3,16,3,No
+595,59,Female,Divorced,HR,Technician,3,12272,79,10,10,5,2,2,2,8,Yes,5,44,8,1,1,3,1,4,Yes
+596,56,Female,Married,R&D,Sales Representative,2,8129,57,5,3,1,3,3,3,33,Yes,3,50,5,3,2,1,11,1,No
+597,52,Female,Single,IT,Engineer,3,2772,76,19,18,1,2,3,2,8,No,6,59,3,1,3,1,41,5,No
+598,31,Male,Single,IT,Technician,1,7641,50,15,15,14,3,2,2,20,No,8,68,7,1,2,1,5,5,No
+599,33,Male,Divorced,HR,Manager,2,2326,18,17,13,8,2,1,3,39,No,5,66,3,3,3,2,34,7,Yes
+600,42,Female,Single,HR,Analyst,3,10208,86,18,17,12,2,2,2,17,No,1,41,11,2,2,1,21,2,No
+601,52,Female,Married,Finance,Technician,3,13892,56,5,2,2,3,3,1,1,No,2,64,18,2,1,1,49,1,Yes
+602,36,Male,Single,IT,Sales Representative,2,4030,56,19,16,5,1,1,3,39,No,7,45,12,2,1,3,18,2,Yes
+603,35,Female,Divorced,Finance,Manager,4,10357,19,15,14,13,2,2,3,12,No,2,69,9,1,2,3,36,4,No
+604,20,Female,Divorced,R&D,Manager,1,14531,40,12,11,4,2,1,3,22,Yes,1,36,2,3,2,3,35,1,Yes
+605,28,Male,Married,Finance,Sales Representative,4,9283,29,10,8,0,3,1,2,33,No,2,47,18,1,2,3,11,5,No
+606,49,Female,Married,Finance,Manager,2,4830,85,10,8,0,2,2,2,35,No,4,40,8,1,1,2,30,6,Yes
+607,21,Male,Divorced,HR,Sales Representative,1,12332,74,4,2,2,1,3,1,6,Yes,3,49,4,3,3,2,19,0,Yes
+608,59,Male,Divorced,IT,Manager,3,2110,71,2,1,0,3,2,1,21,No,7,44,19,1,2,1,47,6,No
+609,48,Female,Single,Finance,Engineer,1,7196,6,3,3,2,1,1,2,6,Yes,1,53,12,2,2,1,28,5,Yes
+610,37,Female,Divorced,IT,Manager,4,7655,67,8,7,6,1,1,1,0,No,8,67,17,1,1,1,5,1,Yes
+611,27,Female,Single,R&D,Manager,4,2168,99,6,6,3,2,1,2,14,Yes,2,59,5,2,3,1,32,4,No
+612,36,Female,Married,HR,Analyst,2,9530,13,6,2,2,3,3,1,14,Yes,9,57,3,1,3,2,19,3,No
+613,24,Male,Single,IT,Engineer,4,8789,12,4,2,3,2,2,3,30,No,3,45,2,2,2,1,48,7,No
+614,50,Female,Divorced,R&D,Analyst,1,7443,17,11,11,4,1,3,3,20,No,5,40,8,1,2,2,6,0,No
+615,28,Male,Married,Finance,Technician,2,4550,94,9,8,5,3,1,2,13,Yes,1,68,8,3,2,3,7,0,Yes
+616,37,Male,Divorced,HR,Engineer,4,5063,83,4,2,4,2,1,1,35,Yes,3,66,9,2,2,2,17,4,Yes
+617,32,Female,Married,Sales,Analyst,2,7637,46,19,15,10,2,1,1,13,No,9,60,7,3,3,2,22,6,No
+618,21,Male,Single,Finance,Analyst,1,2226,9,17,16,12,1,2,1,21,No,5,65,5,3,1,1,28,7,No
+619,29,Female,Married,HR,Technician,4,1662,31,16,16,15,1,2,2,30,Yes,2,60,5,3,2,2,45,7,No
+620,46,Male,Divorced,HR,Engineer,1,5544,33,12,10,2,3,1,3,10,No,3,40,2,2,1,1,28,7,Yes
+621,44,Male,Single,IT,Technician,1,10178,66,13,13,10,3,1,1,16,No,7,64,0,1,3,1,8,4,Yes
+622,25,Male,Divorced,Finance,Engineer,3,3894,40,11,9,4,2,2,3,12,Yes,7,61,12,1,3,3,15,3,No
+623,37,Female,Married,R&D,Manager,2,13179,86,17,14,1,1,3,2,22,Yes,9,43,16,3,1,2,1,1,Yes
+624,49,Female,Married,HR,Engineer,4,10357,24,9,9,7,3,2,1,22,Yes,5,50,7,2,3,1,18,2,No
+625,32,Male,Single,IT,Sales Representative,4,10584,35,4,4,0,2,2,3,2,No,6,69,0,2,1,1,33,0,No
+626,43,Female,Married,IT,Manager,3,9122,31,15,14,9,2,3,3,0,Yes,9,35,9,1,3,3,27,7,Yes
+627,40,Male,Divorced,HR,Manager,2,3691,26,2,0,2,2,1,2,0,Yes,8,50,5,2,2,1,26,3,No
+628,31,Female,Divorced,R&D,Analyst,4,5177,48,1,0,0,1,2,2,21,No,5,35,3,1,2,3,31,6,Yes
+629,29,Female,Divorced,R&D,Technician,2,1149,27,19,18,2,3,1,1,39,Yes,8,42,17,1,2,3,36,6,Yes
+630,22,Male,Married,Sales,Sales Representative,4,7153,66,3,3,0,1,1,3,6,No,3,46,2,3,1,2,33,5,Yes
+631,23,Female,Single,Sales,Technician,4,8418,72,4,1,3,1,3,1,17,No,1,49,1,2,1,3,22,2,Yes
+632,56,Male,Single,IT,Technician,3,3648,71,14,10,1,1,2,3,38,No,4,48,3,2,2,1,31,0,Yes
+633,45,Female,Single,Sales,Analyst,2,11334,21,12,11,5,3,2,3,27,No,4,51,6,2,1,1,15,3,No
+634,28,Female,Divorced,Finance,Engineer,2,5403,95,9,5,3,1,2,1,28,Yes,2,55,15,3,2,1,12,5,Yes
+635,50,Female,Married,R&D,Sales Representative,1,8530,19,3,2,1,2,1,2,38,No,7,36,1,2,3,3,29,3,Yes
+636,20,Male,Divorced,Finance,Technician,3,9612,91,12,11,1,1,2,2,39,Yes,8,49,15,1,1,2,20,5,No
+637,51,Male,Divorced,HR,Analyst,4,5849,43,19,18,3,3,2,2,11,No,2,59,15,1,3,2,26,0,No
+638,56,Male,Single,Finance,Sales Representative,3,5132,54,19,15,8,3,1,2,30,No,4,63,9,3,1,3,15,6,No
+639,48,Male,Single,IT,Analyst,3,8069,39,17,14,13,3,2,2,25,No,5,69,17,3,3,2,36,2,No
+640,46,Male,Single,Sales,Technician,4,5799,8,10,9,9,1,2,3,5,No,8,43,10,3,2,3,13,3,No
+641,22,Male,Married,IT,Technician,3,11629,96,9,5,8,3,2,3,29,Yes,7,67,3,3,2,3,46,4,No
+642,35,Female,Single,Finance,Analyst,4,11767,22,7,6,7,3,3,2,0,Yes,9,62,12,2,1,1,32,7,No
+643,41,Female,Divorced,HR,Analyst,1,2787,61,9,7,1,1,1,2,28,No,5,49,11,3,1,3,41,5,Yes
+644,43,Female,Divorced,Finance,Analyst,1,8810,18,16,12,8,3,1,1,16,Yes,2,48,16,3,2,1,2,1,Yes
+645,26,Female,Single,R&D,Engineer,1,1357,48,8,5,8,1,1,2,19,Yes,7,63,18,3,3,3,30,4,Yes
+646,24,Female,Married,HR,Technician,4,14955,86,0,0,0,2,3,1,27,No,9,47,0,1,3,2,34,4,No
+647,21,Female,Married,HR,Technician,4,8490,88,9,6,1,1,3,1,26,No,1,40,10,2,3,3,21,4,No
+648,36,Female,Single,HR,Analyst,1,9728,60,12,10,11,3,1,1,37,No,1,51,14,2,3,3,32,0,No
+649,49,Female,Single,Sales,Sales Representative,3,1712,69,15,14,5,3,3,2,1,No,7,42,6,1,3,1,18,3,No
+650,34,Male,Single,HR,Manager,4,14778,12,14,13,13,1,1,2,21,No,9,54,11,1,1,1,20,3,Yes
+651,47,Female,Single,R&D,Sales Representative,1,6475,18,18,16,2,1,3,3,1,Yes,4,51,16,2,3,2,24,4,No
+652,46,Male,Divorced,R&D,Analyst,3,11611,74,6,3,3,3,2,1,39,Yes,4,61,3,3,3,1,13,4,No
+653,57,Male,Married,HR,Manager,2,3665,22,13,12,6,2,2,3,6,No,2,47,7,2,1,2,15,6,No
+654,57,Male,Divorced,IT,Sales Representative,3,8559,99,15,11,9,3,2,1,23,No,6,59,0,1,2,2,32,4,No
+655,41,Male,Divorced,R&D,Manager,1,14913,24,15,13,0,1,2,1,22,No,1,67,14,1,2,1,41,3,Yes
+656,21,Male,Married,IT,Sales Representative,3,1160,37,19,16,0,2,2,2,26,No,3,59,8,1,1,1,3,3,No
+657,45,Male,Married,IT,Engineer,2,3788,17,11,10,6,3,3,3,11,No,5,64,13,1,1,3,37,7,No
+658,35,Female,Divorced,IT,Technician,4,11046,16,1,0,1,3,1,1,3,Yes,1,48,14,3,2,3,25,0,No
+659,41,Male,Single,IT,Technician,4,5185,46,12,11,9,2,3,1,19,No,8,47,13,1,2,2,48,4,Yes
+660,52,Male,Married,IT,Analyst,2,3436,14,19,15,1,3,1,1,26,Yes,4,55,11,3,1,1,10,0,Yes
+661,19,Male,Divorced,Sales,Analyst,3,9586,21,11,10,5,1,1,1,20,Yes,7,42,19,3,2,1,28,6,Yes
+662,22,Male,Divorced,Finance,Analyst,3,14956,15,14,13,12,2,3,2,38,No,6,59,19,3,3,1,1,6,Yes
+663,57,Male,Single,HR,Manager,4,11846,81,10,10,5,2,3,2,17,No,1,43,10,1,2,2,14,5,No
+664,35,Female,Divorced,R&D,Technician,4,6322,10,2,0,1,3,3,2,2,Yes,1,58,0,3,1,3,38,7,Yes
+665,29,Male,Married,HR,Manager,4,5980,43,10,8,2,2,3,1,2,No,5,52,2,3,2,2,9,5,No
+666,28,Female,Single,Finance,Manager,3,1677,26,4,2,1,3,1,3,17,No,3,52,5,3,1,2,18,4,Yes
+667,56,Male,Single,IT,Analyst,4,10815,66,17,17,12,2,2,1,6,No,2,58,1,3,1,3,33,4,No
+668,26,Female,Married,IT,Technician,2,14686,39,17,13,4,1,3,2,16,No,5,52,17,1,2,2,15,3,Yes
+669,18,Male,Single,HR,Sales Representative,4,12987,58,14,11,6,2,3,2,9,No,4,45,5,1,2,1,19,6,No
+670,52,Female,Married,IT,Technician,3,10908,28,1,0,0,2,2,1,37,Yes,1,68,2,1,1,2,10,3,No
+671,38,Male,Single,IT,Technician,1,7905,68,16,16,8,2,1,1,6,Yes,7,61,7,1,3,2,7,6,No
+672,27,Female,Married,Sales,Engineer,2,7059,50,3,0,3,2,1,1,37,Yes,6,60,12,3,2,3,1,7,No
+673,38,Female,Married,IT,Technician,2,7436,53,2,0,0,1,3,1,22,No,9,40,16,2,1,1,12,3,Yes
+674,54,Male,Single,R&D,Manager,3,10863,44,0,0,0,1,1,1,39,No,7,43,1,3,3,1,31,6,Yes
+675,20,Male,Divorced,Sales,Manager,1,11801,51,0,0,0,2,2,3,24,No,1,37,16,3,1,1,25,5,Yes
+676,46,Male,Divorced,Finance,Technician,2,10560,97,10,7,3,2,2,2,16,No,4,44,6,2,1,1,4,4,Yes
+677,23,Male,Divorced,Sales,Engineer,4,10150,61,2,2,0,3,1,1,29,No,6,64,13,3,3,1,12,0,No
+678,27,Male,Divorced,Finance,Analyst,1,12723,69,0,0,0,2,3,2,7,No,9,55,19,3,3,2,14,0,No
+679,26,Male,Divorced,IT,Manager,3,4490,40,19,16,6,2,2,1,29,Yes,3,44,9,2,3,2,15,0,No
+680,36,Female,Single,IT,Engineer,2,14182,48,1,0,1,1,1,1,7,No,7,56,13,2,2,1,16,6,Yes
+681,40,Male,Married,R&D,Manager,1,9967,99,1,0,1,2,3,3,17,No,7,67,19,3,2,2,44,0,Yes
+682,45,Male,Divorced,HR,Engineer,3,10036,28,4,2,0,1,3,3,32,Yes,5,46,8,2,3,3,33,2,Yes
+683,59,Female,Divorced,Finance,Manager,3,13197,36,9,9,7,2,2,3,19,No,9,42,14,2,1,1,41,4,No
+684,44,Male,Single,R&D,Engineer,1,3499,52,15,15,14,2,2,3,5,No,7,68,9,1,3,2,2,7,No
+685,45,Male,Single,Finance,Analyst,4,6959,69,18,16,16,1,2,1,6,Yes,8,51,4,3,2,2,48,4,No
+686,18,Male,Married,HR,Analyst,3,8931,23,18,17,4,3,3,3,4,Yes,3,46,3,2,3,2,49,2,Yes
+687,51,Female,Single,Sales,Manager,1,1700,61,12,8,8,1,3,2,32,No,1,57,10,3,2,1,20,4,No
+688,53,Female,Divorced,Finance,Manager,2,12141,70,11,10,3,3,1,1,30,Yes,1,46,4,3,2,2,36,6,No
+689,49,Male,Married,Sales,Manager,2,2154,97,14,12,4,3,3,2,34,Yes,6,60,0,3,3,3,25,5,No
+690,46,Male,Married,Sales,Engineer,2,10859,69,8,6,5,3,3,2,38,No,2,54,15,3,2,3,2,2,No
+691,22,Female,Divorced,Finance,Manager,2,14045,60,19,18,19,1,1,2,38,Yes,5,36,15,3,2,3,43,4,Yes
+692,59,Female,Divorced,R&D,Sales Representative,3,7324,67,6,4,5,3,1,2,20,No,4,67,14,2,3,3,5,3,Yes
+693,35,Female,Divorced,R&D,Sales Representative,4,12716,45,12,11,10,2,1,1,39,No,4,54,12,3,3,1,32,5,Yes
+694,54,Male,Single,R&D,Sales Representative,1,10175,99,19,16,8,1,3,3,19,No,6,45,4,1,1,3,27,5,No
+695,55,Male,Divorced,R&D,Sales Representative,3,14250,32,13,10,13,2,2,1,14,Yes,9,42,7,3,3,1,41,2,Yes
+696,44,Female,Divorced,HR,Technician,3,11148,13,19,17,18,1,2,3,23,No,8,65,17,2,2,1,7,7,No
+697,33,Male,Single,IT,Engineer,2,8683,8,9,9,7,3,1,1,32,No,6,61,10,3,2,2,25,3,No
+698,46,Female,Married,Sales,Analyst,1,10190,28,8,5,5,2,1,3,35,Yes,6,43,0,1,1,1,38,2,Yes
+699,49,Male,Divorced,Finance,Technician,2,7089,99,6,2,0,1,2,2,1,Yes,1,47,17,2,1,2,32,3,Yes
+700,50,Female,Divorced,HR,Engineer,4,9172,99,9,6,1,3,3,2,38,No,6,54,5,1,3,1,29,1,No
+701,48,Male,Married,Sales,Technician,4,6885,6,11,9,5,2,1,1,34,No,7,49,12,2,3,1,4,5,No
+702,39,Male,Married,Finance,Analyst,3,13245,96,9,6,8,1,2,1,14,Yes,4,42,18,3,1,3,42,7,Yes
+703,35,Male,Married,IT,Manager,3,11983,95,13,12,12,2,2,1,28,No,9,39,3,1,1,3,3,4,No
+704,34,Female,Married,HR,Engineer,4,9546,91,1,1,0,2,3,2,14,No,3,39,10,3,3,2,46,4,No
+705,34,Female,Married,Finance,Sales Representative,3,12870,93,14,14,3,3,3,1,4,No,5,48,7,2,1,1,36,2,No
+706,22,Male,Divorced,Finance,Analyst,1,6254,21,1,0,0,1,3,3,28,No,6,63,17,2,2,2,5,5,No
+707,38,Female,Married,R&D,Analyst,3,13995,25,0,0,0,3,3,2,18,No,2,40,12,1,2,1,5,6,No
+708,18,Male,Divorced,IT,Analyst,3,13089,93,0,0,0,1,2,1,22,No,6,61,5,1,1,2,23,6,Yes
+709,54,Male,Divorced,R&D,Analyst,1,14317,14,15,15,13,1,3,2,21,Yes,6,38,11,1,3,2,45,6,Yes
+710,20,Female,Divorced,HR,Engineer,3,10724,64,9,9,2,1,3,3,7,Yes,1,41,17,2,1,3,47,6,No
+711,20,Male,Divorced,IT,Engineer,1,4574,22,18,16,7,1,1,3,20,No,7,61,13,3,1,1,33,0,Yes
+712,48,Male,Single,Finance,Analyst,1,5750,38,17,14,7,2,2,1,14,No,2,51,9,1,3,2,24,5,No
+713,27,Female,Divorced,Finance,Analyst,3,7387,54,0,0,0,3,3,2,20,No,7,48,14,2,1,3,5,0,Yes
+714,43,Female,Married,Finance,Sales Representative,4,11888,14,15,14,8,2,2,3,26,Yes,3,40,14,1,3,1,5,5,No
+715,40,Female,Married,IT,Analyst,3,13122,56,16,16,13,3,3,2,27,No,5,42,5,1,3,1,25,5,No
+716,58,Male,Single,HR,Analyst,1,14900,12,12,9,5,2,1,1,6,No,8,57,19,2,1,3,48,4,Yes
+717,49,Male,Married,Finance,Manager,3,12094,98,2,0,2,3,1,1,21,No,5,66,5,2,1,1,4,2,Yes
+718,48,Female,Divorced,Finance,Engineer,4,8549,29,14,11,1,1,1,3,34,No,6,48,2,1,1,2,19,7,Yes
+719,53,Male,Married,Sales,Manager,3,4187,24,9,8,9,2,3,3,24,Yes,8,43,14,1,3,2,13,3,No
+720,36,Male,Married,Finance,Technician,2,2054,78,17,15,6,2,2,3,21,No,2,68,0,3,2,1,1,7,No
+721,26,Male,Divorced,Sales,Engineer,4,4556,56,17,17,3,3,3,1,29,No,5,46,0,3,1,2,38,1,No
+722,43,Male,Divorced,IT,Engineer,2,13693,30,18,15,11,3,3,3,35,No,6,60,12,1,2,1,18,6,No
+723,48,Female,Single,R&D,Sales Representative,4,14816,92,17,14,14,2,2,2,2,No,4,41,11,2,3,2,28,5,No
+724,31,Male,Married,R&D,Analyst,2,14189,53,13,10,12,3,3,1,1,Yes,8,58,2,1,2,2,20,5,No
+725,49,Male,Married,Sales,Engineer,3,3246,49,12,12,0,2,1,2,2,Yes,1,44,12,1,2,2,40,6,Yes
+726,24,Female,Divorced,HR,Sales Representative,3,3896,56,17,16,11,3,1,2,25,No,2,36,4,3,1,2,4,5,Yes
+727,36,Female,Divorced,R&D,Technician,1,2157,75,15,13,14,2,2,2,22,No,8,49,2,1,1,3,38,1,Yes
+728,44,Female,Married,Finance,Analyst,1,6231,60,7,5,1,1,1,1,25,No,2,62,9,1,2,2,11,4,Yes
+729,41,Male,Married,R&D,Technician,3,13562,59,12,8,11,2,2,2,21,No,8,60,12,1,1,1,22,0,No
+730,55,Female,Divorced,IT,Engineer,1,8973,68,14,11,12,2,1,1,15,No,2,51,2,3,1,1,49,3,No
+731,18,Male,Married,IT,Analyst,2,2693,59,13,9,3,2,3,1,8,Yes,6,68,19,1,3,2,2,6,Yes
+732,45,Male,Married,HR,Manager,2,5808,32,18,18,3,3,2,2,22,No,5,68,9,2,2,1,27,1,No
+733,41,Male,Single,R&D,Analyst,2,7878,53,8,4,2,2,2,2,16,Yes,5,50,16,2,3,3,8,7,No
+734,35,Female,Married,Finance,Analyst,3,8909,54,19,19,7,2,3,3,7,Yes,4,65,5,3,3,3,43,4,No
+735,47,Female,Married,Sales,Manager,3,6578,78,17,14,12,2,1,2,12,Yes,4,39,19,2,1,2,8,7,Yes
+736,32,Male,Single,HR,Manager,3,9935,7,13,12,8,1,1,3,15,Yes,9,59,5,2,1,1,48,6,Yes
+737,21,Female,Married,HR,Technician,3,6091,89,15,11,3,1,2,2,1,Yes,9,52,15,1,2,1,11,0,No
+738,53,Female,Divorced,IT,Engineer,1,9290,54,7,3,6,3,2,1,0,No,8,63,8,2,2,1,34,2,No
+739,57,Male,Single,Finance,Manager,4,11434,17,18,17,16,2,2,2,1,Yes,5,51,14,1,2,1,7,1,No
+740,49,Female,Divorced,HR,Technician,1,1539,54,1,0,1,1,1,2,39,No,7,63,3,2,3,1,18,0,Yes
+741,32,Male,Single,HR,Technician,3,10636,53,1,0,1,2,2,2,16,Yes,4,61,1,2,3,3,7,5,No
+742,29,Male,Divorced,Sales,Manager,1,11983,43,8,7,3,3,1,2,33,No,7,67,13,1,1,1,6,4,Yes
+743,22,Female,Single,IT,Technician,3,13044,80,4,3,2,3,3,2,9,Yes,2,60,14,2,1,2,22,7,No
+744,30,Female,Single,R&D,Sales Representative,1,3138,44,17,17,12,3,2,2,4,No,6,66,7,3,1,2,14,6,No
+745,49,Male,Divorced,IT,Technician,3,5113,74,10,7,0,3,3,1,34,No,5,58,16,2,2,1,34,3,No
+746,28,Male,Divorced,Finance,Sales Representative,3,8881,28,0,0,0,1,1,2,5,Yes,8,65,15,3,2,2,14,2,Yes
+747,47,Male,Divorced,IT,Engineer,1,5166,54,8,4,6,1,1,1,11,No,8,55,14,3,2,3,41,7,Yes
+748,49,Female,Married,R&D,Manager,2,13541,31,6,3,5,2,3,3,19,No,9,65,1,3,1,2,28,7,Yes
+749,33,Male,Married,HR,Technician,1,5518,23,18,15,12,1,1,3,38,Yes,1,52,10,3,1,2,39,1,Yes
+750,23,Female,Married,IT,Sales Representative,1,14241,56,4,4,2,2,3,2,36,No,2,67,14,2,1,3,37,7,No
+751,36,Female,Married,Finance,Sales Representative,1,1461,90,11,9,6,3,1,2,6,No,4,45,11,2,3,3,27,2,Yes
+752,40,Female,Divorced,Finance,Engineer,4,3882,6,5,2,4,3,2,2,19,No,2,36,0,2,1,1,48,2,Yes
+753,55,Female,Divorced,Finance,Sales Representative,1,1915,10,10,8,3,1,3,2,28,Yes,8,42,5,1,3,3,33,6,No
+754,38,Male,Married,HR,Engineer,1,7586,20,12,10,10,2,1,1,11,No,8,55,19,2,3,1,49,2,No
+755,53,Female,Married,HR,Analyst,3,13935,58,8,6,5,1,3,3,23,No,5,45,12,3,2,3,43,3,No
+756,19,Female,Divorced,HR,Sales Representative,2,1471,32,15,11,9,1,1,1,23,No,7,61,10,3,1,2,45,3,Yes
+757,59,Female,Divorced,Finance,Manager,2,2430,77,4,0,0,3,2,1,21,No,9,60,1,3,1,2,19,6,No
+758,22,Female,Divorced,HR,Technician,4,1110,76,14,14,0,1,2,3,13,No,6,39,4,3,3,3,5,3,No
+759,23,Male,Divorced,HR,Sales Representative,3,9349,20,13,10,13,1,1,1,37,Yes,4,52,17,2,1,1,48,4,Yes
+760,53,Male,Married,R&D,Sales Representative,4,10432,65,13,11,13,3,1,2,3,Yes,8,36,10,2,3,1,31,4,No
+761,24,Female,Divorced,HR,Analyst,4,8871,17,10,9,1,2,3,2,0,Yes,2,35,18,2,3,3,33,6,No
+762,51,Male,Single,HR,Technician,4,1295,34,4,1,4,1,1,2,2,No,2,47,16,3,1,2,35,2,Yes
+763,41,Female,Married,HR,Sales Representative,1,10174,93,4,2,0,1,3,1,9,No,9,54,1,3,3,1,14,1,No
+764,52,Male,Single,Finance,Sales Representative,2,12038,82,15,13,5,2,3,2,15,No,9,50,3,2,3,1,18,6,No
+765,53,Male,Single,Finance,Technician,4,4950,70,13,11,5,3,2,3,32,No,9,51,13,1,1,2,23,7,Yes
+766,49,Male,Single,IT,Analyst,4,13366,21,17,15,6,1,2,1,6,No,9,55,8,1,1,3,34,5,No
+767,36,Male,Single,R&D,Manager,4,8802,17,4,3,1,3,3,1,21,No,1,35,10,2,3,2,35,3,No
+768,23,Female,Divorced,R&D,Manager,2,8147,21,5,5,1,2,2,2,28,No,9,50,3,2,1,3,23,2,Yes
+769,35,Male,Single,Finance,Technician,3,8876,92,7,5,1,1,3,2,18,No,6,69,8,1,2,1,21,4,No
+770,39,Male,Married,Sales,Manager,1,5581,57,15,11,11,3,2,2,22,No,7,36,5,1,3,2,40,2,No
+771,53,Female,Single,HR,Technician,3,7372,95,1,0,0,1,2,1,17,No,7,42,17,3,1,3,31,2,Yes
+772,50,Male,Divorced,R&D,Sales Representative,2,9232,23,8,4,8,2,3,3,32,No,8,46,0,2,3,3,6,2,No
+773,35,Female,Divorced,IT,Manager,3,6059,22,8,6,5,3,1,1,13,Yes,3,58,15,3,2,3,25,6,Yes
+774,25,Female,Single,R&D,Technician,3,9116,96,5,3,3,1,3,3,3,No,9,44,7,2,2,3,3,2,No
+775,57,Female,Single,R&D,Sales Representative,4,6602,22,12,11,0,1,2,1,8,No,7,65,1,2,2,1,5,4,No
+776,55,Female,Married,R&D,Manager,3,8597,34,2,0,0,2,3,1,18,No,9,35,5,1,1,3,46,1,Yes
+777,50,Male,Married,R&D,Manager,1,2461,77,2,0,0,2,1,3,36,Yes,8,67,0,3,3,2,5,5,Yes
+778,42,Male,Married,HR,Manager,4,10852,87,19,15,17,3,1,3,0,Yes,8,36,14,1,2,1,47,3,No
+779,52,Female,Divorced,HR,Analyst,2,13263,69,14,12,13,2,2,2,28,No,1,67,4,1,2,3,48,7,No
+780,28,Female,Single,Sales,Sales Representative,4,8041,82,12,11,3,2,3,2,22,No,3,44,10,3,2,1,43,3,No
+781,41,Female,Married,Sales,Engineer,1,1841,65,10,6,5,2,1,3,30,Yes,5,57,3,3,2,1,17,6,No
+782,21,Female,Single,Sales,Sales Representative,4,2633,94,12,9,2,2,2,2,25,Yes,9,45,5,2,3,3,15,1,No
+783,48,Male,Single,IT,Manager,1,5310,8,9,9,2,3,3,2,18,No,4,55,1,3,1,2,17,1,No
+784,27,Male,Single,Finance,Analyst,3,11789,77,11,10,8,2,1,3,3,Yes,6,64,9,2,3,3,36,2,Yes
+785,53,Male,Single,IT,Sales Representative,2,3329,40,10,8,10,3,1,2,32,No,8,49,16,2,2,3,26,5,No
+786,21,Male,Married,IT,Technician,1,11040,59,17,15,5,1,3,2,37,Yes,3,54,10,1,1,1,49,6,Yes
+787,56,Male,Divorced,IT,Manager,2,3472,26,5,3,4,1,3,3,36,No,9,53,9,2,3,2,45,6,No
+788,32,Female,Married,Finance,Sales Representative,3,6319,75,3,2,0,3,2,3,9,No,3,59,11,3,3,2,10,1,No
+789,42,Male,Divorced,IT,Manager,4,14872,52,18,16,10,3,3,1,16,Yes,9,56,12,1,3,1,33,3,Yes
+790,58,Male,Divorced,Sales,Sales Representative,1,4671,92,14,14,12,3,1,3,34,Yes,7,57,0,2,3,2,1,4,No
+791,44,Male,Married,Sales,Manager,4,3689,17,12,10,7,2,2,3,32,No,9,43,15,2,2,3,11,5,No
+792,53,Female,Married,HR,Technician,1,2709,57,1,0,1,3,3,2,16,No,8,58,17,1,3,3,1,6,No
+793,31,Male,Married,Sales,Analyst,2,2031,94,14,11,6,3,3,1,35,Yes,4,68,3,3,1,3,18,6,No
+794,49,Male,Divorced,Sales,Engineer,1,10995,80,18,18,10,1,2,2,31,No,5,66,4,3,1,3,38,5,Yes
+795,19,Male,Divorced,IT,Analyst,1,3248,53,18,14,14,2,1,3,10,No,9,37,7,3,3,3,20,0,Yes
+796,41,Female,Single,Finance,Analyst,1,13107,85,0,0,0,2,2,2,10,Yes,2,59,6,2,3,3,12,0,No
+797,40,Male,Single,IT,Sales Representative,1,8257,26,18,17,6,1,1,2,14,No,5,57,11,1,3,2,12,7,Yes
+798,19,Female,Divorced,Finance,Engineer,2,4176,52,18,16,17,3,1,2,12,Yes,6,37,15,2,3,3,46,6,No
+799,38,Male,Married,IT,Analyst,1,1065,9,8,5,1,1,3,2,7,No,7,64,17,3,1,1,29,6,No
+800,39,Female,Single,IT,Engineer,4,5329,64,5,2,1,3,2,1,1,No,5,51,1,2,3,3,35,4,No
+801,54,Male,Single,Sales,Technician,4,6716,50,15,14,2,3,1,1,4,No,3,64,3,3,2,1,31,0,No
+802,42,Male,Single,IT,Sales Representative,3,12630,53,10,10,1,2,2,1,10,No,5,55,4,3,2,1,13,5,No
+803,20,Male,Married,IT,Engineer,1,6363,89,6,6,5,3,1,3,12,No,9,47,4,2,1,1,37,6,No
+804,31,Female,Divorced,HR,Engineer,1,7627,50,5,3,3,1,2,1,8,No,2,57,5,1,1,2,31,6,No
+805,47,Female,Married,HR,Analyst,3,14894,93,5,5,5,1,2,3,27,No,8,66,0,1,3,2,18,4,Yes
+806,31,Male,Divorced,HR,Technician,2,9675,21,18,17,5,2,1,3,39,No,3,49,7,2,3,1,1,4,Yes
+807,57,Male,Single,Finance,Sales Representative,4,5680,99,16,14,15,3,2,2,6,No,8,45,1,1,3,3,12,4,No
+808,46,Male,Single,R&D,Analyst,3,1189,63,7,3,0,1,2,3,22,No,5,46,12,3,3,2,46,2,Yes
+809,34,Female,Single,HR,Manager,3,2135,90,9,5,4,3,2,1,15,No,5,66,15,3,1,2,44,7,No
+810,31,Female,Divorced,Finance,Analyst,3,3807,48,8,8,2,1,3,2,9,Yes,1,50,3,2,3,3,2,1,No
+811,21,Male,Single,HR,Manager,4,9108,62,14,13,3,1,3,3,25,Yes,1,45,9,2,2,3,23,2,Yes
+812,53,Male,Married,IT,Engineer,2,6446,80,2,0,1,1,3,3,31,Yes,9,64,4,1,1,1,20,0,Yes
+813,20,Female,Married,IT,Technician,1,5874,76,9,8,7,2,1,1,31,No,8,39,15,2,2,1,37,7,No
+814,42,Female,Divorced,HR,Engineer,2,6489,38,8,7,8,3,3,2,4,Yes,7,52,5,2,2,1,41,4,No
+815,27,Female,Divorced,R&D,Engineer,3,12839,44,7,5,0,2,1,3,14,Yes,9,57,12,3,1,1,27,3,Yes
+816,36,Male,Divorced,R&D,Technician,2,5205,56,6,2,5,1,2,3,6,No,9,62,1,3,1,3,4,4,No
+817,54,Male,Single,IT,Manager,1,2867,90,12,11,0,2,3,1,8,Yes,4,57,10,3,1,3,9,6,Yes
+818,40,Male,Single,R&D,Engineer,1,10018,32,17,13,0,2,3,1,31,No,8,48,10,3,3,2,40,4,No
+819,45,Female,Married,IT,Analyst,4,4419,64,11,7,5,1,2,2,25,No,9,39,16,1,2,2,7,6,No
+820,37,Female,Married,IT,Manager,3,8354,70,15,13,7,3,1,3,4,No,6,50,4,3,3,3,47,7,No
+821,38,Male,Married,IT,Technician,1,13132,82,6,6,3,3,1,3,39,No,5,63,9,2,3,2,49,6,No
+822,40,Female,Single,R&D,Manager,1,14851,43,0,0,0,1,3,2,11,Yes,8,59,3,1,3,2,15,1,Yes
+823,49,Female,Divorced,Finance,Sales Representative,2,4596,60,11,11,2,2,2,2,17,No,8,46,3,1,3,3,40,7,No
+824,50,Female,Married,R&D,Analyst,2,14651,94,14,13,12,3,2,3,32,No,4,47,11,2,3,1,7,7,No
+825,21,Male,Single,HR,Analyst,4,14386,90,13,12,5,1,3,2,17,No,5,53,15,3,3,3,1,7,Yes
+826,37,Female,Single,Sales,Technician,2,4652,62,6,2,3,2,1,3,20,Yes,5,40,14,1,3,3,38,5,No
+827,29,Female,Divorced,IT,Analyst,4,13456,73,4,2,4,1,3,2,20,Yes,7,51,7,2,2,2,26,4,No
+828,30,Female,Single,R&D,Engineer,4,10696,80,8,6,4,3,1,1,0,No,1,35,5,1,3,2,35,1,Yes
+829,51,Female,Divorced,Finance,Technician,4,12788,66,10,8,10,3,2,1,0,Yes,1,53,3,3,2,3,36,7,No
+830,44,Male,Divorced,Sales,Sales Representative,1,4821,60,0,0,0,2,2,2,39,Yes,4,66,9,3,1,1,5,4,No
+831,44,Female,Married,Sales,Engineer,2,9455,53,6,6,0,3,3,2,10,No,3,56,2,1,1,3,2,0,No
+832,23,Male,Divorced,Finance,Technician,3,4501,39,3,2,3,3,3,3,1,No,1,41,4,1,2,2,32,4,No
+833,26,Male,Single,Sales,Analyst,4,5694,57,11,10,6,2,2,1,36,No,9,42,19,2,2,2,4,7,No
+834,20,Female,Divorced,HR,Engineer,2,7773,30,14,12,11,1,3,2,26,No,9,69,12,2,3,1,2,7,No
+835,53,Male,Married,IT,Manager,1,7978,50,1,0,1,2,1,1,9,Yes,9,55,12,2,2,3,4,1,Yes
+836,48,Male,Married,HR,Engineer,3,3150,37,7,7,7,2,2,2,7,Yes,7,47,14,3,2,2,11,1,No
+837,34,Female,Single,IT,Sales Representative,1,11251,42,17,16,4,2,1,3,25,No,9,48,0,1,1,3,29,4,Yes
+838,48,Female,Married,R&D,Manager,1,5113,49,18,14,18,3,2,1,37,Yes,4,38,6,3,3,2,16,2,No
+839,40,Female,Single,R&D,Analyst,3,10862,62,8,8,1,3,3,1,17,Yes,3,55,10,2,3,1,25,2,No
+840,53,Male,Married,Finance,Manager,3,4742,33,3,0,0,1,3,1,2,No,4,45,16,1,2,1,14,7,Yes
+841,27,Male,Divorced,Finance,Manager,2,1787,48,8,8,6,2,2,2,15,No,3,69,10,3,1,3,40,3,No
+842,52,Female,Single,Sales,Technician,1,9876,55,1,0,0,3,3,2,38,Yes,4,60,15,1,3,3,16,2,No
+843,40,Male,Single,R&D,Technician,2,1353,95,14,12,1,1,2,3,35,No,4,54,4,2,3,1,44,0,Yes
+844,39,Male,Married,IT,Manager,4,5578,90,14,12,5,2,1,2,16,No,4,43,9,1,2,2,31,4,No
+845,28,Male,Married,R&D,Sales Representative,1,1829,68,8,8,4,2,2,1,9,Yes,4,63,19,2,1,1,47,6,No
+846,33,Female,Single,Sales,Sales Representative,1,14288,24,4,1,4,2,2,2,1,Yes,1,50,2,3,2,3,42,0,No
+847,21,Male,Single,Sales,Engineer,1,12675,11,16,13,9,1,3,3,17,No,7,46,8,2,3,3,34,0,No
+848,50,Male,Single,HR,Sales Representative,3,3959,93,14,10,11,3,2,2,34,Yes,5,41,7,2,3,3,2,6,Yes
+849,55,Female,Single,HR,Analyst,4,4997,74,5,5,3,3,3,2,14,No,8,35,7,3,2,1,34,6,No
+850,58,Female,Single,IT,Manager,4,14615,98,14,10,14,1,1,2,18,No,3,38,10,1,1,1,16,0,No
+851,44,Male,Married,R&D,Technician,1,14776,60,7,6,1,3,1,3,9,No,3,56,2,1,2,3,46,1,No
+852,50,Female,Divorced,HR,Engineer,4,12941,31,6,6,1,1,3,2,29,No,3,37,14,2,1,2,48,1,No
+853,47,Male,Divorced,Finance,Analyst,2,9250,80,11,8,3,2,2,1,2,No,9,55,8,1,3,3,16,0,No
+854,31,Female,Married,Finance,Technician,4,6758,45,1,0,0,3,2,2,26,No,8,51,0,2,3,3,18,0,Yes
+855,48,Female,Single,Finance,Analyst,4,9896,48,14,10,9,3,3,2,0,No,7,44,5,3,2,2,49,1,No
+856,23,Female,Divorced,R&D,Sales Representative,4,1561,61,17,17,1,2,3,1,7,No,9,47,8,3,1,2,45,7,Yes
+857,48,Male,Divorced,Sales,Engineer,3,8213,98,9,9,7,2,1,3,10,Yes,8,58,14,1,3,1,38,3,Yes
+858,42,Male,Single,HR,Engineer,1,9936,64,7,5,4,2,2,3,16,Yes,2,49,18,2,2,3,7,3,No
+859,37,Male,Divorced,HR,Analyst,1,7719,11,5,4,5,1,2,2,19,No,3,35,8,1,2,3,2,7,No
+860,23,Male,Single,Sales,Engineer,3,2440,78,0,0,0,3,1,1,3,No,7,47,4,2,2,1,7,5,No
+861,45,Female,Married,Finance,Engineer,1,9662,95,13,9,5,3,3,1,2,Yes,2,58,0,3,1,2,27,1,No
+862,23,Male,Single,HR,Sales Representative,1,11549,91,3,3,0,2,1,2,22,No,2,69,13,1,3,1,41,1,No
+863,42,Male,Married,IT,Manager,2,3781,55,9,7,9,1,2,2,30,No,7,55,17,2,1,1,6,1,Yes
+864,52,Male,Single,HR,Manager,3,8771,40,9,8,2,1,3,1,19,No,3,62,5,1,1,2,37,2,No
+865,31,Male,Married,IT,Manager,1,5118,68,15,12,8,2,3,1,38,No,6,53,11,1,3,1,5,0,No
+866,35,Female,Divorced,Sales,Technician,3,2539,97,0,0,0,1,3,2,7,No,9,54,15,2,1,2,7,2,Yes
+867,26,Female,Married,Sales,Sales Representative,1,13900,28,6,4,0,2,2,2,23,No,3,65,10,2,2,3,48,4,No
+868,58,Female,Divorced,Sales,Sales Representative,3,12339,92,5,4,2,3,2,3,20,Yes,2,67,15,2,2,3,24,0,No
+869,39,Male,Divorced,IT,Technician,4,9776,51,13,10,7,1,1,2,19,Yes,2,44,18,1,3,1,46,6,No
+870,24,Male,Single,IT,Analyst,2,1393,38,13,11,9,1,2,3,36,Yes,2,65,1,1,3,2,14,1,Yes
+871,57,Male,Married,R&D,Engineer,1,11248,24,2,1,2,1,1,3,7,Yes,9,37,3,1,3,3,16,6,Yes
+872,59,Female,Single,Finance,Engineer,4,10837,9,4,1,1,3,2,1,29,No,9,37,3,3,2,2,48,4,No
+873,51,Female,Divorced,Sales,Engineer,3,10567,32,8,6,7,2,3,1,22,No,9,66,2,3,2,3,49,4,No
+874,34,Female,Single,IT,Manager,3,1701,16,11,11,5,3,1,2,15,No,1,67,17,2,1,3,42,2,Yes
+875,42,Female,Married,Finance,Technician,4,4194,40,3,0,2,2,1,1,3,Yes,1,55,7,3,1,3,47,6,No
+876,40,Male,Divorced,IT,Engineer,4,7125,17,11,7,6,1,3,3,9,Yes,1,36,1,3,1,3,4,1,Yes
+877,54,Male,Single,Finance,Engineer,1,9649,55,9,6,7,1,2,2,38,Yes,6,48,5,2,2,2,27,5,No
+878,25,Female,Married,Sales,Technician,1,10043,85,18,18,6,1,3,1,13,Yes,2,61,13,1,1,1,39,2,Yes
+879,31,Male,Single,R&D,Technician,1,12863,99,8,6,1,2,2,1,31,Yes,2,41,0,1,2,3,20,4,No
+880,48,Female,Divorced,R&D,Technician,4,1645,28,4,0,2,2,1,3,28,No,9,44,2,3,1,3,45,7,Yes
+881,21,Female,Married,IT,Sales Representative,1,14788,69,17,17,8,2,3,3,15,Yes,3,66,17,2,2,2,38,5,No
+882,30,Female,Single,R&D,Analyst,1,8067,7,17,16,7,2,2,1,25,No,2,68,11,1,3,1,2,2,No
+883,39,Female,Married,R&D,Analyst,3,1553,41,7,3,3,2,2,2,31,No,1,57,16,1,1,1,13,7,Yes
+884,24,Female,Single,R&D,Engineer,1,10262,89,17,14,9,2,3,3,0,No,5,41,2,1,3,3,4,6,No
+885,54,Female,Divorced,R&D,Manager,3,7890,26,9,6,0,3,2,1,0,No,9,51,13,1,1,3,38,6,Yes
+886,49,Female,Married,Sales,Engineer,2,3737,42,10,8,4,2,2,3,38,No,4,62,15,1,2,3,18,5,No
+887,56,Female,Divorced,Sales,Technician,3,13739,18,4,4,2,3,3,3,19,No,2,48,5,1,2,1,40,0,No
+888,38,Male,Single,IT,Manager,2,5491,96,16,16,7,2,2,2,1,Yes,6,65,11,2,3,3,19,3,No
+889,19,Male,Single,IT,Engineer,4,1805,29,10,6,9,1,2,3,4,No,5,63,17,1,2,1,18,7,No
+890,48,Female,Married,IT,Manager,4,9530,61,12,10,10,2,3,3,28,Yes,8,35,7,2,2,3,8,2,No
+891,52,Female,Single,Finance,Technician,2,5083,85,15,12,8,1,3,2,34,Yes,8,38,7,1,2,1,45,1,No
+892,27,Male,Divorced,Sales,Technician,1,2977,95,10,9,6,2,1,2,34,No,1,55,2,2,3,2,26,7,No
+893,49,Male,Married,HR,Sales Representative,2,1658,58,17,13,17,3,3,3,4,Yes,7,59,13,3,3,2,42,2,No
+894,19,Male,Divorced,HR,Manager,4,1383,25,7,7,5,2,1,1,27,Yes,7,51,8,2,3,2,12,5,Yes
+895,26,Female,Single,R&D,Engineer,2,2287,14,14,14,9,3,1,1,13,No,9,66,3,2,3,1,21,0,Yes
+896,18,Female,Divorced,IT,Technician,4,3438,70,14,11,8,3,2,1,34,No,9,55,5,3,2,3,23,3,No
+897,55,Female,Single,R&D,Technician,4,11053,85,12,12,1,2,3,2,2,No,2,56,6,1,2,3,20,5,No
+898,48,Female,Married,Finance,Manager,4,14170,78,17,17,0,1,1,2,21,Yes,1,62,9,1,1,2,17,3,No
+899,42,Male,Divorced,Sales,Engineer,3,10672,27,19,19,15,3,2,2,34,No,5,60,5,2,1,3,13,6,No
+900,19,Female,Single,IT,Engineer,4,5557,98,7,4,2,1,3,1,37,Yes,5,68,10,3,1,2,34,1,No
+901,49,Female,Single,Sales,Analyst,2,1554,13,1,0,1,2,1,3,22,Yes,3,57,15,3,3,2,37,0,Yes
+902,45,Female,Married,IT,Sales Representative,4,8741,98,18,18,17,3,3,2,32,Yes,4,43,7,2,1,3,6,6,No
+903,38,Female,Single,HR,Engineer,1,6529,5,3,0,0,1,3,2,3,Yes,5,56,10,1,3,3,18,0,No
+904,27,Male,Single,HR,Sales Representative,2,14279,33,2,2,1,2,2,3,37,Yes,1,64,11,1,3,2,46,2,No
+905,50,Male,Married,IT,Analyst,1,3887,55,0,0,0,2,1,2,30,Yes,5,39,1,1,3,2,26,0,Yes
+906,22,Male,Married,Finance,Manager,4,8691,79,3,1,0,2,3,2,14,Yes,6,40,0,1,1,2,30,4,No
+907,39,Female,Married,R&D,Analyst,4,13391,15,14,12,7,1,2,2,16,No,2,45,12,1,2,1,38,0,No
+908,53,Female,Single,Sales,Sales Representative,4,3257,26,3,3,1,3,1,3,0,No,9,39,14,2,1,1,28,4,Yes
+909,27,Female,Married,Finance,Technician,4,9870,88,9,8,9,1,1,1,14,No,6,46,18,3,2,1,2,6,Yes
+910,53,Male,Divorced,IT,Manager,1,14665,28,9,6,2,3,1,3,39,Yes,7,45,7,1,3,3,48,6,No
+911,24,Female,Divorced,HR,Manager,3,13867,59,2,2,1,3,3,3,5,Yes,3,45,19,1,2,2,48,2,No
+912,53,Male,Divorced,R&D,Manager,1,5055,99,16,15,2,1,1,2,38,Yes,6,54,13,1,1,3,20,2,Yes
+913,35,Male,Single,Finance,Manager,3,3206,43,5,5,1,1,3,1,3,No,6,50,5,2,3,3,31,3,No
+914,52,Female,Married,Sales,Engineer,2,6789,48,6,5,2,3,3,2,38,Yes,8,64,19,2,1,2,25,6,Yes
+915,58,Female,Divorced,Sales,Engineer,1,3025,41,6,2,6,3,2,1,10,No,6,68,2,1,3,2,15,5,No
+916,41,Male,Married,IT,Manager,1,8583,42,0,0,0,2,1,3,24,No,5,41,13,3,2,3,39,1,Yes
+917,18,Female,Divorced,Finance,Engineer,1,13982,74,16,12,10,1,1,3,27,No,4,69,12,3,1,1,21,1,Yes
+918,23,Female,Married,IT,Engineer,4,10705,63,16,12,10,2,3,2,23,No,9,69,5,2,1,1,32,1,No
+919,42,Male,Single,R&D,Engineer,3,9523,44,13,13,8,1,2,3,1,No,3,67,0,2,3,2,47,2,No
+920,45,Male,Married,HR,Sales Representative,1,7714,61,11,8,11,1,1,1,30,No,8,61,1,2,3,2,4,2,Yes
+921,52,Male,Divorced,IT,Manager,2,8929,55,13,11,7,2,3,2,1,No,6,46,10,1,2,2,17,6,No
+922,33,Female,Divorced,HR,Manager,4,13193,75,0,0,0,3,3,2,3,Yes,4,45,14,2,1,2,48,3,No
+923,52,Female,Divorced,Sales,Manager,3,8381,68,0,0,0,2,1,1,2,No,6,53,0,2,2,2,12,1,No
+924,57,Female,Single,IT,Analyst,2,9099,34,2,2,1,3,3,2,32,No,6,57,4,2,2,2,25,3,No
+925,39,Male,Single,Finance,Technician,1,13314,59,16,12,12,1,1,2,14,No,2,36,10,1,3,3,25,2,Yes
+926,59,Female,Single,Sales,Engineer,1,5780,74,10,8,10,3,2,3,14,Yes,8,68,15,3,1,3,41,6,Yes
+927,57,Female,Married,R&D,Sales Representative,2,7950,45,15,14,11,1,2,2,0,No,3,68,3,3,3,1,10,3,No
+928,36,Female,Married,Finance,Sales Representative,3,9834,27,16,15,10,2,2,2,5,Yes,9,69,16,3,1,2,30,4,Yes
+929,56,Male,Married,Sales,Manager,1,3634,69,16,13,3,2,1,1,27,Yes,3,42,17,2,3,1,6,4,Yes
+930,26,Male,Single,IT,Sales Representative,2,14423,48,2,2,1,1,2,2,7,No,8,62,15,2,3,2,15,3,No
+931,55,Female,Single,Sales,Engineer,3,14595,51,8,7,2,2,1,1,9,No,7,47,15,2,2,1,30,0,No
+932,41,Female,Single,Sales,Manager,1,2037,21,9,9,5,1,2,2,17,Yes,1,61,6,1,3,3,23,6,No
+933,32,Male,Married,IT,Engineer,4,14211,61,14,14,14,3,3,3,19,No,1,37,15,1,2,3,26,1,No
+934,27,Male,Divorced,Finance,Manager,3,11773,21,19,16,10,3,2,1,22,No,8,45,14,1,2,2,25,0,No
+935,52,Male,Single,R&D,Technician,4,12683,28,10,9,6,1,3,2,34,No,7,68,15,1,2,2,44,7,Yes
+936,20,Male,Divorced,HR,Engineer,1,10416,40,1,0,0,2,2,3,1,No,5,41,3,2,2,3,44,1,Yes
+937,32,Female,Married,Sales,Technician,1,7838,75,3,0,1,3,3,1,33,Yes,7,48,4,2,3,3,39,2,No
+938,19,Female,Married,Finance,Engineer,3,10730,74,1,0,0,3,1,1,13,Yes,4,50,1,1,2,1,28,1,Yes
+939,24,Male,Married,Sales,Technician,3,13256,39,19,18,6,1,1,2,22,Yes,2,49,10,2,2,1,39,3,No
+940,48,Female,Single,HR,Sales Representative,2,3355,79,13,11,8,1,3,3,9,No,6,38,3,3,3,2,22,0,No
+941,49,Female,Married,Sales,Manager,1,1180,9,4,3,1,3,2,1,27,No,1,56,17,3,2,3,29,1,No
+942,22,Male,Married,IT,Technician,2,12971,36,18,14,0,1,2,2,7,Yes,9,66,1,1,1,1,25,1,No
+943,27,Male,Single,Finance,Engineer,1,10727,50,19,15,1,3,3,1,34,No,4,46,4,1,3,1,1,7,No
+944,59,Male,Married,R&D,Analyst,1,11687,61,3,3,3,1,1,1,2,No,3,62,18,1,2,2,23,7,No
+945,46,Male,Married,R&D,Manager,4,8824,35,10,7,6,2,3,3,19,No,4,58,10,2,3,1,19,3,No
+946,47,Male,Married,IT,Engineer,4,12047,33,5,2,0,2,2,3,6,Yes,4,54,15,3,1,2,30,6,Yes
+947,54,Male,Married,Sales,Manager,1,14332,41,5,3,5,2,3,1,2,Yes,6,64,18,3,3,3,2,7,No
+948,25,Male,Married,IT,Analyst,3,1589,75,16,15,4,2,3,2,29,No,8,44,1,2,3,3,37,6,No
+949,27,Male,Divorced,R&D,Technician,2,5306,55,18,17,5,2,3,2,5,No,6,49,5,3,3,1,49,2,No
+950,41,Female,Single,Sales,Engineer,4,3886,73,15,14,3,2,1,3,12,No,1,62,11,3,2,3,1,5,No
+951,18,Female,Married,Sales,Technician,2,9878,85,11,9,6,3,2,2,30,No,3,62,11,1,2,3,30,1,No
+952,54,Male,Married,IT,Manager,1,5458,44,12,10,0,3,1,3,15,No,7,56,3,3,2,2,10,0,No
+953,47,Male,Married,HR,Engineer,2,1093,87,6,2,3,3,1,2,21,Yes,7,36,10,1,3,1,8,1,No
+954,18,Male,Married,IT,Manager,3,1828,51,2,2,1,3,3,3,32,Yes,7,61,14,3,1,1,42,0,Yes
+955,29,Female,Divorced,Finance,Analyst,2,2389,31,19,17,6,2,2,2,9,Yes,2,50,19,1,3,1,20,6,No
+956,34,Female,Single,Sales,Manager,1,14008,19,11,8,9,1,2,3,34,No,6,67,5,1,3,2,44,3,No
+957,18,Female,Divorced,Sales,Manager,4,2394,58,2,0,1,1,3,3,4,Yes,8,48,7,3,2,1,33,7,Yes
+958,41,Female,Divorced,R&D,Analyst,3,6125,34,4,4,2,2,1,3,20,No,5,46,4,2,1,1,35,0,Yes
+959,27,Female,Divorced,Finance,Manager,1,2075,85,12,11,4,3,1,1,5,No,1,64,9,1,3,3,29,1,Yes
+960,53,Female,Single,HR,Sales Representative,4,2497,5,3,2,1,1,1,2,15,Yes,2,50,5,1,2,2,7,4,Yes
+961,37,Female,Married,Sales,Engineer,4,8432,31,13,12,4,3,1,2,1,No,8,58,19,2,1,2,23,1,Yes
+962,49,Male,Married,Sales,Technician,2,5994,93,11,10,11,1,3,2,34,Yes,9,53,15,1,3,1,32,5,No
+963,35,Female,Married,Finance,Engineer,4,1224,50,5,4,0,1,1,2,18,No,1,60,13,3,3,2,8,7,Yes
+964,36,Female,Single,HR,Analyst,1,5950,52,17,14,6,1,1,3,19,No,8,42,9,1,1,1,32,4,Yes
+965,27,Female,Divorced,Sales,Technician,4,2096,88,15,12,10,3,3,1,37,Yes,6,44,13,1,3,1,35,7,Yes
+966,19,Male,Married,Finance,Technician,1,13213,51,2,2,2,2,2,2,32,No,2,38,15,2,1,1,40,5,No
+967,33,Female,Divorced,Finance,Analyst,3,4086,86,10,8,0,2,2,2,31,Yes,7,48,14,1,2,2,24,7,No
+968,22,Male,Married,R&D,Manager,2,9964,17,2,2,0,2,2,2,25,Yes,4,68,6,3,2,3,17,2,No
+969,38,Male,Married,Sales,Analyst,1,1954,64,16,16,16,2,1,3,14,No,9,49,8,1,1,2,43,7,Yes
+970,43,Female,Single,R&D,Technician,1,3656,95,4,0,1,3,2,2,12,No,4,45,1,2,3,1,16,0,No
+971,31,Female,Divorced,Finance,Analyst,4,14527,51,8,6,6,1,2,3,23,No,1,35,19,3,3,2,12,1,Yes
+972,27,Female,Single,HR,Engineer,2,7356,19,4,0,3,3,3,3,24,No,1,47,8,1,3,1,4,3,No
+973,33,Male,Married,Finance,Manager,3,9216,76,16,12,11,1,1,1,22,No,3,61,7,3,1,1,45,1,Yes
+974,20,Male,Married,IT,Manager,4,2839,22,12,11,5,2,1,1,5,No,9,64,19,2,1,3,29,5,Yes
+975,26,Male,Single,HR,Engineer,4,6505,62,9,6,1,3,2,1,26,Yes,5,68,1,1,3,3,48,5,No
+976,38,Male,Single,HR,Sales Representative,1,12129,29,13,10,11,2,2,2,34,No,6,57,0,2,3,1,32,4,No
+977,28,Male,Single,Finance,Sales Representative,2,10968,35,0,0,0,1,2,3,2,Yes,3,67,10,1,1,2,32,6,Yes
+978,37,Female,Divorced,Sales,Technician,4,6339,17,15,15,9,1,2,3,37,Yes,7,58,7,2,1,2,6,6,No
+979,44,Female,Divorced,R&D,Sales Representative,1,7069,54,14,14,2,2,2,2,3,Yes,5,59,10,2,2,1,10,1,No
+980,56,Male,Married,Sales,Technician,3,2580,48,0,0,0,3,1,3,25,No,7,42,3,2,1,2,38,5,Yes
+981,34,Male,Married,Finance,Sales Representative,4,8163,52,11,8,11,1,1,2,5,Yes,5,51,8,3,2,1,9,2,Yes
+982,51,Male,Single,IT,Analyst,4,3313,20,18,15,6,3,2,3,20,Yes,3,55,16,3,3,2,35,1,No
+983,42,Female,Divorced,Sales,Sales Representative,2,12810,87,19,16,7,3,3,1,28,No,7,40,3,2,2,3,25,2,No
+984,51,Male,Married,IT,Manager,2,12909,50,1,0,0,2,2,2,32,No,6,46,16,2,1,3,5,6,Yes
+985,50,Female,Married,Finance,Sales Representative,2,14480,85,2,0,1,3,3,1,32,Yes,4,51,6,2,1,3,27,3,Yes
+986,43,Female,Divorced,Sales,Sales Representative,3,8055,81,11,10,1,2,2,2,1,No,8,42,10,1,1,1,47,3,No
+987,24,Female,Single,Finance,Sales Representative,2,7323,54,14,13,2,3,1,3,18,Yes,5,69,9,1,1,3,41,1,No
+988,55,Female,Married,IT,Engineer,2,2481,77,19,15,2,1,2,2,30,No,6,66,10,2,3,2,9,3,No
+989,45,Female,Divorced,HR,Sales Representative,3,9801,26,1,0,1,3,2,3,29,No,6,68,12,2,1,2,21,0,Yes
+990,39,Male,Single,R&D,Analyst,3,6268,10,19,16,7,1,2,3,31,No,8,49,8,3,1,1,49,2,Yes
+991,48,Male,Divorced,HR,Sales Representative,1,9841,12,9,5,9,2,3,2,7,Yes,9,58,14,2,1,3,32,0,Yes
+992,22,Male,Married,Finance,Engineer,3,4309,91,16,12,0,2,2,1,32,No,4,50,3,1,1,1,21,6,No
+993,19,Male,Divorced,HR,Technician,3,5067,48,0,0,0,2,3,1,25,No,5,44,18,3,3,2,17,6,Yes
+994,33,Male,Divorced,Sales,Sales Representative,3,6368,54,17,15,6,1,1,3,37,Yes,5,67,18,3,3,1,16,2,Yes
+995,27,Female,Single,Sales,Technician,4,12374,38,11,7,2,1,3,1,7,No,5,44,13,2,3,2,3,4,No
+996,47,Male,Single,HR,Sales Representative,4,7325,15,11,11,10,2,3,3,28,No,7,53,6,1,2,2,6,2,No
+997,53,Female,Single,HR,Sales Representative,3,6691,24,6,3,4,2,2,1,23,No,3,38,14,2,3,1,21,1,No
+998,57,Male,Single,IT,Technician,4,11633,73,10,7,0,2,3,2,39,No,5,50,13,1,3,3,36,0,No
+999,39,Male,Divorced,Sales,Engineer,4,14921,8,0,0,0,1,2,3,16,Yes,5,65,8,2,3,3,40,2,Yes
+1000,30,Male,Single,R&D,Analyst,1,9835,99,8,8,4,1,1,1,28,Yes,3,49,12,2,1,2,40,0,Yes

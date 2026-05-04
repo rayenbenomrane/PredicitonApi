@@ -12,7 +12,7 @@ from imblearn.over_sampling import SMOTE
 from imblearn.pipeline import Pipeline as ImbPipeline
 
 
-df = pd.read_csv(r"D:\telechargements\employee_attrition_1000.csv", sep=',')
+df = pd.read_csv(r"employee_attrition_1000.csv", sep=',')
 
 df = df.drop(columns=['Employee_ID'],errors='ignore')
 df.columns = df.columns.str.strip()
